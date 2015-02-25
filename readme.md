@@ -13,7 +13,7 @@
 	- Culture du Web
 	- Les métiers du Web
 - 10 principes pour du bon design selon Dieter Rams
-- Design is about how things work, not how they look 
+- Design is about how things work, not how they look
 - Comment interpréter cette conception dans le Web ?
 - UX Designer / UI Designer
 - Introduction à l’ergonomie Web
@@ -33,6 +33,9 @@
 - Fondements pour l’ergonomie (Amélie Boucher ch.3)
 
 ## Séance 04 - le 25 février 2015
+- Suite des fondements pour l’ergonomie Web (Amélie Boucher ch.3)
+- Début des règles pour l’ergonomie Web (Amélie Boucher ch.5)
+- Présentation d’un profil d’ancien : Jolan Delvaux, Intégrateur chez Défimedia
 ## Séance 05 - le 04 mars 2015
 ## Séance 06 - le 11 mars 2015
 ## Séance 07 - le 18 mars 2015
