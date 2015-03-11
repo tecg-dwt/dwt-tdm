@@ -44,6 +44,10 @@
 	- Cohérence Externe
 - Présentation d’un profil d’ancien : Clément Danjou, Senior Front-end Engineer chez Deezer
 ## Séance 06 - le 11 mars 2015
+- Suite des règles pour l’ergonomie
+	- Information
+	- Compréhension
+	- Assistance
 ## Séance 07 - le 18 mars 2015
 ## Séance 08 - le 25 mars 2015
 ## Séance 09 - le 01 avril 2015
