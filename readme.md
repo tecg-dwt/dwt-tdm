@@ -66,8 +66,10 @@
 ## Séance 09 - le 01 avril 2015
 
 ## Séance 10 - le 22 avril 2015
+- Grève nationale ?
 
 ## Séance 11 - le 29 avril 2015
+- Présentation du projet *Moniteur de l’accessibilité* par Anysurfer
 
 ## Séance 12 - le 06 mai 2015
 
