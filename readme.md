@@ -50,6 +50,7 @@
 	- Information
 	- Compréhension
 	- Assistance
+- Présentation d’un profil d’ancien : Lorrain Fontaine, Intégrateur et développeur chez DJMWeb
 
 ## Séance 07 - le 18 mars 2015
 - Suite et fin des règles pour l’ergonomie
