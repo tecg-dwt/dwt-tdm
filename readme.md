@@ -49,6 +49,13 @@
 	- Compréhension
 	- Assistance
 ## Séance 07 - le 18 mars 2015
+- Suite et fin des règles pour l’ergonomie
+	- Gérer les erreurs
+	- Rapidité
+	- Liberté
+	- Accessibilité
+	- Satisfaction
+- Amélie Boucher : De l’ergonomie pour mon e-commerce (conférence donnée à Paris Web)
 ## Séance 08 - le 25 mars 2015
 ## Séance 09 - le 01 avril 2015
 ## Séance 10 - le 22 avril 2015
