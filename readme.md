@@ -36,6 +36,7 @@
 - Suite des fondements pour l’ergonomie Web (Amélie Boucher ch.3)
 - Début des règles pour l’ergonomie Web (Amélie Boucher ch.5)
 - Présentation d’un profil d’ancien : Jolan Delvaux, Intégrateur chez Défimedia
+
 ## Séance 05 - le 04 mars 2015
 - Suite des règles pour l’ergonomie
 	- Architecture
@@ -43,11 +44,13 @@
 	- Cohérence Interne
 	- Cohérence Externe
 - Présentation d’un profil d’ancien : Clément Danjou, Senior Front-end Engineer chez Deezer
+
 ## Séance 06 - le 11 mars 2015
 - Suite des règles pour l’ergonomie
 	- Information
 	- Compréhension
 	- Assistance
+
 ## Séance 07 - le 18 mars 2015
 - Suite et fin des règles pour l’ergonomie
 	- Gérer les erreurs
@@ -56,10 +59,17 @@
 	- Accessibilité
 	- Satisfaction
 - Amélie Boucher : De l’ergonomie pour mon e-commerce (conférence donnée à Paris Web)
+
 ## Séance 08 - le 25 mars 2015
+
 ## Séance 09 - le 01 avril 2015
+
 ## Séance 10 - le 22 avril 2015
+
 ## Séance 11 - le 29 avril 2015
+
 ## Séance 12 - le 06 mai 2015
+
 ## Séance 13 - le 13 mai 2015
+
 ## Séance 14 - le 20 mai 2015
