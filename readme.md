@@ -62,6 +62,13 @@
 - Amélie Boucher : De l’ergonomie pour mon e-commerce (conférence donnée à Paris Web)
 
 ## Séance 08 - le 25 mars 2015
+- Tests utilisateurs
+	- Comprendre la notion d’utilité
+	- Comprendre la notion de cible
+	- Les persona
+	- Le plan de test (scénarisation)
+	- Exemples
+- Présentation d’un profil d’ancien : Kevin Dessouroux, Front-end Developpeur chez Epic
 
 ## Séance 09 - le 01 avril 2015
 
