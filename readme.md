@@ -71,6 +71,12 @@
 - Présentation d’un profil d’ancien : Kevin Dessouroux, Front-end Developpeur chez Epic
 
 ## Séance 09 - le 01 avril 2015
+- Accessibilité
+	- Présentation des enjeux
+	- Les situations de Handicap
+	- Les normes
+		- Les WCAG 2.0
+	- Les outils d’évaluation (début)
 
 ## Séance 10 - le 22 avril 2015
 - Grève nationale ?
