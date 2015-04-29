@@ -19,6 +19,7 @@
 - Introduction à l’ergonomie Web
 - Définitions opérationnelles de la notion d’utilisabilité
 - Présentation d’un profil d’ancien : Grégory Bastings, Web Designer chez BugiWeb
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/vids/c1.mov)
 
 ## Séance 02 - le 11 février 2015
 
@@ -31,11 +32,15 @@
 - Les méthodes pour l’ergonomie Web (Amélie Boucher)
 - Idées reçues (Amélie Boucher ch.2)
 - Fondements pour l’ergonomie (Amélie Boucher ch.3)
+- [clic-droit pour télécharger la vidéo de la première moitié](http://www.domy.be/design-web/vids/c3-1.mov)
+- [clic-droit pour télécharger la vidéo de la seconde moitié](http://www.domy.be/design-web/vids/c3-2.mov)
 
 ## Séance 04 - le 25 février 2015
 - Suite des fondements pour l’ergonomie Web (Amélie Boucher ch.3)
 - Début des règles pour l’ergonomie Web (Amélie Boucher ch.5)
 - Présentation d’un profil d’ancien : Jolan Delvaux, Intégrateur chez Défimedia
+- [clic-droit pour télécharger la vidéo de la première moitié](http://www.domy.be/design-web/vids/c4-1.mov)
+- [clic-droit pour télécharger la vidéo de la seconde moitié](http://www.domy.be/design-web/vids/c4-2.mov)
 
 ## Séance 05 - le 04 mars 2015
 - Suite des règles pour l’ergonomie
@@ -44,6 +49,7 @@
 	- Cohérence Interne
 	- Cohérence Externe
 - Présentation d’un profil d’ancien : Clément Danjou, Senior Front-end Engineer chez Deezer
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/vids/c5.mp4)
 
 ## Séance 06 - le 11 mars 2015
 - Suite des règles pour l’ergonomie
@@ -51,6 +57,7 @@
 	- Compréhension
 	- Assistance
 - Présentation d’un profil d’ancien : Lorrain Fontaine, Intégrateur et développeur chez DJMWeb
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/vids/c6.mp4)
 
 ## Séance 07 - le 18 mars 2015
 - Suite et fin des règles pour l’ergonomie
@@ -60,6 +67,7 @@
 	- Accessibilité
 	- Satisfaction
 - Amélie Boucher : De l’ergonomie pour mon e-commerce (conférence donnée à Paris Web)
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/vids/c7.mp4)
 
 ## Séance 08 - le 25 mars 2015
 - Tests utilisateurs
@@ -69,6 +77,7 @@
 	- Le plan de test (scénarisation)
 	- Exemples
 - Présentation d’un profil d’ancien : Kevin Dessouroux, Front-end Developpeur chez Epic
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/vids/c8.mp4)
 
 ## Séance 09 - le 01 avril 2015
 - Accessibilité
@@ -77,9 +86,10 @@
 	- Les normes
 		- Les WCAG 2.0
 	- Les outils d’évaluation (début)
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/vids/c9.mp4)
 
 ## Séance 10 - le 22 avril 2015
-- Grève nationale ?
+- Grève nationale
 
 ## Séance 11 - le 29 avril 2015
 - Présentation du projet *Moniteur de l’accessibilité* par Anysurfer
