@@ -93,6 +93,7 @@
 
 ## Séance 11 - le 29 avril 2015
 - Présentation du projet *Moniteur de l’accessibilité* par Anysurfer
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/vids/c10.mp4)
 
 ## Séance 12 - le 06 mai 2015
 
