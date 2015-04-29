@@ -19,7 +19,7 @@
 - Introduction à l’ergonomie Web
 - Définitions opérationnelles de la notion d’utilisabilité
 - Présentation d’un profil d’ancien : Grégory Bastings, Web Designer chez BugiWeb
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/vids/c1.mov)
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/vids/c1.mp4)
 
 ## Séance 02 - le 11 février 2015
 
