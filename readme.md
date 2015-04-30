@@ -49,7 +49,7 @@
 	- Cohérence Interne
 	- Cohérence Externe
 - Présentation d’un profil d’ancien : Clément Danjou, Senior Front-end Engineer chez Deezer
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/vids/c5.mp4)
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/vids/c5.mp4) Attention, il n‘y a pas de son dans cette vidéo…
 
 ## Séance 06 - le 11 mars 2015
 - Suite des règles pour l’ergonomie
