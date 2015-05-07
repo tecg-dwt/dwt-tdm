@@ -98,6 +98,16 @@
 - [Voir les slides dans un format linéaire](http://slides.anysurfer.be/reveal/tm_2014_2015_handout_fr.html)
 
 ## Séance 12 - le 06 mai 2015
+- Performances Web
+    + Enjeux
+    + Outils
+    + Cycle d’une requête
+    + Caches
+    + CSS
+    + JS
+    + Images
+    + Réseau
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/vids/c11.mp4)
 
 ## Séance 13 - le 13 mai 2015
 
