@@ -110,5 +110,19 @@
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/vids/c11.mp4)
 
 ## Séance 13 - le 13 mai 2015
+- Typographie Web
+    + [Web Design is 95% typography](https://ia.net/know-how/the-web-is-all-about-typography-period)
+    + Règles
+        * Mouvement Horizontal
+        * Mouvement Vertical
+        * Harmonie
+- Vidéo à regarder : [Macro-Typographie de la page Web](http://dai.ly/xfpf08)
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/vids/c12.mp4)
 
 ## Séance 14 - le 20 mai 2015
+
+## Rappel de la matière en vue de l’examen
+- Livre *Ergonomie Web* de Amélie Boucher, Ed. Eyrolles
+- [Directives Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
+- Matière vue au cours sur les performances (pour une explication plus détaillée, possibilité de se référer aux règles du site [GTMetrix](http://gtmetrix.com/recommendations.html). Attention, la matière pour l’examen est constituée des propos émis lors du cours, le site de GTMetrix n’est mentionné que pour vous aider et ne constitue pas la matière à proprement parler)
+- Matière vue au cours sur la typographie appliquée au Web.
