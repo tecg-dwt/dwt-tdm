@@ -120,6 +120,7 @@
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/vids/c12.mp4)
 
 ## Séance 14 - le 20 mai 2015
+- [How Designers destroyed the World](https://vimeo.com/68470326)
 
 ## Rappel de la matière en vue de l’examen
 - Livre *Ergonomie Web* de Amélie Boucher, Ed. Eyrolles
