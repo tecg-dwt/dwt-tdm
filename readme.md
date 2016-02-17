@@ -31,6 +31,15 @@
 
 ## Séance 03 - le 17 février 2016
 
+- Fondements pour l’ergonomie (Amélie Boucher ch.3)
+    + Loi de la proximité
+    + Loi de la similarité
+    + Loi de Fitts
+    + Affordance
+    + loi de Hick
+    + Principe de Pareto
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours3.mp4)
+
 ## Séance 04 - le 24 février 2016
 
 ## Séance 05 - le 02 mars 2016
