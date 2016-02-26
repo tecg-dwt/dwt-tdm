@@ -1,4 +1,3 @@
-# Table des matières du cours de Design Web
 
 ## Séance 01 - le 03 février 2016
 
@@ -41,6 +40,11 @@
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours3.mp4)
 
 ## Séance 04 - le 24 février 2016
+
+- Concepts
+    + Architecture
+    + Organisation visuelle de la page
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours4.mp4)
 
 ## Séance 05 - le 02 mars 2016
 
