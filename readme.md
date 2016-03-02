@@ -48,6 +48,12 @@
 
 ## Séance 05 - le 02 mars 2016
 
+- Concepts
+    + Cohérence interne
+    + Cohérence externe
+    + Information
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours5.mp4)
+
 ## Séance 06 - le 09 mars 2016
 
 ## Séance 07 - le 16 mars 2016
