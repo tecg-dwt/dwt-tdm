@@ -56,6 +56,8 @@
 
 ## Séance 06 - le 09 mars 2016
 
+Cours annulé, prof. absent
+
 ## Séance 07 - le 16 mars 2016
 
 ## Séance 08 - le 23 mars 2016
