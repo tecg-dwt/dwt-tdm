@@ -60,6 +60,12 @@ Cours annulé, prof. absent
 
 ## Séance 07 - le 16 mars 2016
 
+- Concepts
+    + Compréhension
+    + Assistance
+    + Gérer les erreurs
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours6.mp4)
+
 ## Séance 08 - le 23 mars 2016
 
 ## Séance 09 - le 13 avril 2016
