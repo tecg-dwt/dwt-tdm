@@ -68,6 +68,18 @@ Cours annulé, prof. absent
 
 ## Séance 08 - le 23 mars 2016
 
+- Concepts
+    + Rapidité
+    + Liberté
+    + Accessibilité
+    + Satisfaction
+- Évaluer l’utilisabilité
+    + Utilités
+    + Public cible
+        * Personas
+    + Test
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours7.mp4)
+
 ## Séance 09 - le 13 avril 2016
 
 ## Séance 10 - le 20 avril 2016
