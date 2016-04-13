@@ -82,6 +82,15 @@ Cours annulé, prof. absent
 
 ## Séance 09 - le 13 avril 2016
 
+- Évaluer l’utilisabilité
+    + Plan de test
+- Accessibilité
+    + Les standards
+    + Vidéo de Jérémy Patonnier sur les standards en entreprise
+    + Première définition de l’accessibilité
+    + Les situations de handicap
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours8.mp4)
+
 ## Séance 10 - le 20 avril 2016
 
 ## Séance 11 - le 27 avril 2016
