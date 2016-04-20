@@ -16,6 +16,7 @@
 - Comment interpréter cette conception dans le Web ?
 - UX Designer / UI Designer
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours1.mp4)
+- [clic-droit pour télécharger la un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc01.pdf)
 
 ## Séance 02 - le 10 février 2016
 
@@ -27,6 +28,7 @@
 - Fondements pour l’ergonomie (Amélie Boucher ch.3)
     + Loi de la proximité
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours2.mp4)
+- [clic-droit pour télécharger la un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc02.pdf)
 
 ## Séance 03 - le 17 février 2016
 
@@ -38,6 +40,7 @@
     + loi de Hick
     + Principe de Pareto
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours3.mp4)
+- [clic-droit pour télécharger la un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc03.pdf)
 
 ## Séance 04 - le 24 février 2016
 
@@ -45,6 +48,7 @@
     + Architecture
     + Organisation visuelle de la page
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours4.mp4)
+- [clic-droit pour télécharger la un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc04.pdf)
 
 ## Séance 05 - le 02 mars 2016
 
@@ -53,6 +57,7 @@
     + Cohérence externe
     + Information
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours5.mp4)
+- [clic-droit pour télécharger la un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc05.pdf)
 
 ## Séance 06 - le 09 mars 2016
 
@@ -79,6 +84,7 @@ Cours annulé, prof. absent
         * Personas
     + Test
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours7.mp4)
+- [clic-droit pour télécharger la un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc06.pdf)
 
 ## Séance 09 - le 13 avril 2016
 
@@ -90,8 +96,11 @@ Cours annulé, prof. absent
     + Première définition de l’accessibilité
     + Les situations de handicap
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours8.mp4)
+- [clic-droit pour télécharger la un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc07.pdf)
 
 ## Séance 10 - le 20 avril 2016
+
+- Grève des bus, le cours n’a pas avancé par manque d’étudiants
 
 ## Séance 11 - le 27 avril 2016
 
@@ -107,3 +116,9 @@ Cours annulé, prof. absent
 - [Directives Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
 - Matière vue au cours sur les performances (pour une explication plus détaillée, possibilité de se référer aux règles du site [GTMetrix](http://gtmetrix.com/recommendations.html). Attention, la matière pour l’examen est constituée des propos émis lors du cours, le site de GTMetrix n’est mentionné que pour vous aider et ne constitue pas la matière à proprement parler)
 - Matière vue au cours sur la typographie appliquée au Web.
+
+## Quelques liens intéressants
+- [A List Apart](http://www.alistapart.com)
+- [Smashing Magazine](http://www.smashingmagazine.com)
+- [Alsacreations](http://www.alsacreations.com)
+- [Openweb](http://openweb.eu.org)
