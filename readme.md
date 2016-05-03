@@ -127,3 +127,6 @@ Cours annulé, prof. absent
 - [Smashing Magazine](http://www.smashingmagazine.com)
 - [Alsacreations](http://www.alsacreations.com)
 - [Openweb](http://openweb.eu.org)
+- [CSS Tricks](http://www.css-tricks.com)
+- [Hteumeuleu](http://www.hteumeuleu.fr)
+- [Codrops](http://tympanus.net/codrops/)
