@@ -104,6 +104,11 @@ Cours annulé, prof. absent
 
 ## Séance 11 - le 27 avril 2016
 
+- Accessibilité
+     + Exemples
+     + Outils pour évaluer l’accessibilité
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours9.mp4)
+
 ## Séance 12 - le 04 mai 2016
 
 ## Séance 13 - le 11 mai 2016
