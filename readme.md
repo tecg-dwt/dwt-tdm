@@ -96,7 +96,7 @@ Cours annulé, prof. absent
     + Première définition de l’accessibilité
     + Les situations de handicap
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours8.mp4)
-- [clic-droit pour télécharger la un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc07.pdf)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc07.pdf)
 
 ## Séance 10 - le 20 avril 2016
 
@@ -110,6 +110,12 @@ Cours annulé, prof. absent
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours9.mp4)
 
 ## Séance 12 - le 04 mai 2016
+
+- Accessibilité
+     + Outils pour évaluer l’accessibilité
+     + Points à contrôler
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours10.mp4)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc08.pdf)
 
 ## Séance 13 - le 11 mai 2016
 
