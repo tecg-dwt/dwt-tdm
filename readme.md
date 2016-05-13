@@ -119,6 +119,14 @@ Cours annulé, prof. absent
 
 ## Séance 13 - le 11 mai 2016
 
+- Accessibilité
+     + Points à contrôler
+     + Pratiques
+     + WAI-ARIA
+     + HTML5 ?
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours11.mp4)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc09.pdf)
+
 ## Séance 14 - le 18 mai 2016
 
 ## Rappel de la matière en vue de l’examen
