@@ -140,6 +140,7 @@ Cours annulé, prof. absent
    + CSS
    + JS
    + Images
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc10.pdf)
 
 ## Rappel de la matière en vue de l’examen
 - Les contenus des présentations lors des cours
