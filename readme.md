@@ -124,17 +124,28 @@ Cours annulé, prof. absent
      + Pratiques
      + WAI-ARIA
      + HTML5 ?
+- Performances
+	+ Généralités
+	+ Slow Backend
+	+ Slow Frontend
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2016/cours11.mp4)
 - [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc09.pdf)
 
 ## Séance 14 - le 18 mai 2016
+
+- Performances
+   + Slow Frontend
+   + Étapes d’une transaction HTTP
+   + Caches
+   + CSS
+   + JS
+   + Images
 
 ## Rappel de la matière en vue de l’examen
 - Les contenus des présentations lors des cours
 - Livre *Ergonomie Web* de Amélie Boucher, Ed. Eyrolles
 - [Directives Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
 - Matière vue au cours sur les performances (pour une explication plus détaillée, possibilité de se référer aux règles du site [GTMetrix](http://gtmetrix.com/recommendations.html). Attention, la matière pour l’examen est constituée des propos émis lors du cours, le site de GTMetrix n’est mentionné que pour vous aider et ne constitue pas la matière à proprement parler)
-- Matière vue au cours sur la typographie appliquée au Web.
 
 ## Quelques liens intéressants
 - [A List Apart](http://www.alistapart.com)
