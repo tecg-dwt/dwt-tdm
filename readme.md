@@ -13,10 +13,20 @@
 	- Les métiers du Web
 - 10 principes pour du bon design selon Dieter Rams
 - Design is about how things work, not how they look
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours1.mp4)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc01.pdf)
+
+## Séance 02 - le 15 février 2017
+
 - Comment interpréter cette conception dans le Web ?
 - UX Designer / UI Designer
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours1.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc01.pdf)
+- Introduction à l’ergonomie Web
+- Définitions opérationnelles de la notion d’utilisabilité
+- Objectifs d’une démarche ergonomique
+- Les méthodes pour l’ergonomie Web (Amélie Boucher)
+- Idées reçues (Amélie Boucher ch.2)
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours2.mp4)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc02.pdf)
 
 ## Rappel de la matière en vue de l’examen
 - Les contenus des présentations lors des cours
