@@ -16,7 +16,7 @@
 - Comment interpréter cette conception dans le Web ?
 - UX Designer / UI Designer
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours1.mp4)
-- [clic-droit pour télécharger la un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc01.pdf)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2016/sc01.pdf)
 
 ## Rappel de la matière en vue de l’examen
 - Les contenus des présentations lors des cours
