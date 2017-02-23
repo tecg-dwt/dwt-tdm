@@ -28,6 +28,13 @@
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours2.mp4)
 - [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc02.pdf)
 
+## Séance 03 - le 22 février 2017
+
+- Idées reçues (Amélie Boucher ch.2)
+- Fondements pour l’ergonomie (Amélie Boucher ch.3)
+- Loi de la proximité
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc03.pdf)
+
 ## Rappel de la matière en vue de l’examen
 - Les contenus des présentations lors des cours
 - Livre *Ergonomie Web* de Amélie Boucher, Ed. Eyrolles
