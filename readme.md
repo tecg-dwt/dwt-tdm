@@ -33,6 +33,7 @@
 - Idées reçues (Amélie Boucher ch.2)
 - Fondements pour l’ergonomie (Amélie Boucher ch.3)
 - Loi de la proximité
+- [clic-droit pour télécharger la vidéo __Attention, problème d’enregistrement, les vidéos ne passent pas, j’ai fait une capture de mon écran de contrôle et pas de celui que vous voyiez. Cependant, le son est là et vous permet de suivre__](http://www.domy.be/design-web/2017/cours3.mp4)
 - [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc03.pdf)
 
 ## Rappel de la matière en vue de l’examen
