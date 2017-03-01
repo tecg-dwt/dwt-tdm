@@ -36,6 +36,16 @@
 - [clic-droit pour télécharger la vidéo __Attention, problème d’enregistrement, les vidéos ne passent pas, j’ai fait une capture de mon écran de contrôle et pas de celui que vous voyiez. Cependant, le son est là et vous permet de suivre__](http://www.domy.be/design-web/2017/cours3.mp4)
 - [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc03.pdf)
 
+## Séance 04 - le 01 mars 2017
+
+- Loi de similarité
+- Loi de Fitts
+- Affordance
+- Loi de Hick
+- Principe de Pareto
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours4.mp4)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc04.pdf)
+
 ## Rappel de la matière en vue de l’examen
 - Les contenus des présentations lors des cours
 - Livre *Ergonomie Web* de Amélie Boucher, Ed. Eyrolles
