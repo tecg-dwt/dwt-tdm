@@ -46,6 +46,13 @@
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours4.mp4)
 - [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc04.pdf)
 
+## Seance 05 - le 15 mars 2017
+
+- Concepts et règles
+- Architecture
+- Organisation visuelle
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc05.pdf)
+
 ## Rappel de la matière en vue de l’examen
 - Les contenus des présentations lors des cours
 - Livre *Ergonomie Web* de Amélie Boucher, Ed. Eyrolles
