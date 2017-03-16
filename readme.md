@@ -51,6 +51,7 @@
 - Concepts et règles
 - Architecture
 - Organisation visuelle
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours5.mp4)
 - [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc05.pdf)
 
 ## Rappel de la matière en vue de l’examen
