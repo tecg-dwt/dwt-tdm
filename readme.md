@@ -61,6 +61,19 @@
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours6.mp4)
 - [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc06.pdf)
 
+## Séance 07 - le 29 mars 2017
+
+- Cohérence externe
+- Information
+- Compréhension
+- Assistance
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours7.mp4)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc07.pdf)
+
+## Séance 08 - le 19 avril 2017 (PV4)
+
+- Conférence Anysurfer
+
 ## Rappel de la matière en vue de l’examen
 - Les contenus des présentations lors des cours
 - Livre *Ergonomie Web* de Amélie Boucher, Ed. Eyrolles
