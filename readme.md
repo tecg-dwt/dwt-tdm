@@ -74,6 +74,12 @@
 
 - Conférence Anysurfer
 
+## Séance 09 - le 25 avril 2017
+
+## Séance 10 - le 10 mai 2017
+
+## Séance 11 - le 17 mai 2017
+
 ## Rappel de la matière en vue de l’examen
 - Les contenus des présentations lors des cours
 - Livre *Ergonomie Web* de Amélie Boucher, Ed. Eyrolles
