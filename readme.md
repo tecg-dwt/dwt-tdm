@@ -73,8 +73,16 @@
 ## Séance 08 - le 19 avril 2017 (PV4)
 
 - Conférence Anysurfer
+- [Les slides](http://slides.anysurfer.be/reveal/tm2016_2017_fr.html#/)
 
 ## Séance 09 - le 25 avril 2017
+
+- Gérer les erreurs
+- Rapidité
+- Liberté
+- Satisfaction
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours8.mp4)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc08.pdf)
 
 ## Séance 10 - le 10 mai 2017
 
