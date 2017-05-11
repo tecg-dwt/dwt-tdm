@@ -84,6 +84,8 @@
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours8.mp4)
 - [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc08.pdf)
 
+## Séance du 3 mai 2017 annulée pour cause de séance pédagogique
+
 ## Séance 10 - le 10 mai 2017
 
 - Accessibilité
