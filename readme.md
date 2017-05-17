@@ -107,7 +107,6 @@
 - Les contenus des présentations lors des cours
 - Livre *Ergonomie Web* de Amélie Boucher, Ed. Eyrolles
 - [Directives Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
-- Matière vue au cours sur les performances (pour une explication plus détaillée, possibilité de se référer aux règles du site [GTMetrix](http://gtmetrix.com/recommendations.html). Attention, la matière pour l’examen est constituée des propos émis lors du cours, le site de GTMetrix n’est mentionné que pour vous aider et ne constitue pas la matière à proprement parler)
 
 ## Quelques liens intéressants
 - [A List Apart](http://www.alistapart.com)
