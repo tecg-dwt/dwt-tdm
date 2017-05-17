@@ -99,6 +99,10 @@
 
 ## Séance 11 - le 17 mai 2017
 
+- Points importants à vérifier  
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours10.mp4)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc10.pdf)
+
 ## Rappel de la matière en vue de l’examen
 - Les contenus des présentations lors des cours
 - Livre *Ergonomie Web* de Amélie Boucher, Ed. Eyrolles
