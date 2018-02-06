@@ -1,5 +1,6 @@
+# Design Web - Table des matières et planning du cours
 
-## Séance 01 - le 08 février 2017
+## Séance 01 - le 07 février 2018
 
 - Présentation de l’enseignant
 - Présentation des cours de l’orientation Web à la HEPL
@@ -13,102 +14,60 @@
 	- Les métiers du Web
 - 10 principes pour du bon design selon Dieter Rams
 - Design is about how things work, not how they look
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours1.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc01.pdf)
+- [clic-droit pour télécharger la vidéo](http://www.domy.be)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be)
 
-## Séance 02 - le 15 février 2017
+## Séance 02 - le 14 février 2018
+- [clic-droit pour télécharger la vidéo](http://www.domy.be)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be)
 
-- Comment interpréter cette conception dans le Web ?
-- UX Designer / UI Designer
-- Introduction à l’ergonomie Web
-- Définitions opérationnelles de la notion d’utilisabilité
-- Objectifs d’une démarche ergonomique
-- Les méthodes pour l’ergonomie Web (Amélie Boucher)
-- Idées reçues (Amélie Boucher ch.2)
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours2.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc02.pdf)
+## Séance 03 - le 21 février 2018
+- [clic-droit pour télécharger la vidéo](http://www.domy.be)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be)
 
-## Séance 03 - le 22 février 2017
+## Séance 04 - le 28 février 2018
+- [clic-droit pour télécharger la vidéo](http://www.domy.be)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be)
 
-- Idées reçues (Amélie Boucher ch.2)
-- Fondements pour l’ergonomie (Amélie Boucher ch.3)
-- Loi de la proximité
-- [clic-droit pour télécharger la vidéo __Attention, problème d’enregistrement, les vidéos ne passent pas, j’ai fait une capture de mon écran de contrôle et pas de celui que vous voyiez. Cependant, le son est là et vous permet de suivre__](http://www.domy.be/design-web/2017/cours3.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc03.pdf)
+## Séance 05 - le 07 mars 2018
+- [clic-droit pour télécharger la vidéo](http://www.domy.be)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be)
 
-## Séance 04 - le 01 mars 2017
+## Séance 06 - le 14 mars 2018
+- [clic-droit pour télécharger la vidéo](http://www.domy.be)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be)
 
-- Loi de similarité
-- Loi de Fitts
-- Affordance
-- Loi de Hick
-- Principe de Pareto
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours4.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc04.pdf)
+## Séance 07 - le 21 mars 2018
+- [clic-droit pour télécharger la vidéo](http://www.domy.be)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be)
 
-## Séance 05 - le 15 mars 2017
+## Séance 08 - le 28 mars 2018
+- [clic-droit pour télécharger la vidéo](http://www.domy.be)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be)
 
-- Concepts et règles
-- Architecture
-- Organisation visuelle
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours5.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc05.pdf)
+## Séance 09 - le 18 avril 2018
+- [clic-droit pour télécharger la vidéo](http://www.domy.be)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be)
 
-## Séance 06 - le 22 mars 2017
+## Séance 10 - du 25 avril 2018
+- [clic-droit pour télécharger la vidéo](http://www.domy.be)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be)
 
-- Organisation visuelle
-- Cohérence interne
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours6.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc06.pdf)
+## Séance 11 - le 02 mai 2018
+- [clic-droit pour télécharger la vidéo](http://www.domy.be)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be)
 
-## Séance 07 - le 29 mars 2017
+## Séance 12 - le 09 mai 2018
+- [clic-droit pour télécharger la vidéo](http://www.domy.be)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be)
 
-- Cohérence externe
-- Information
-- Compréhension
-- Assistance
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours7.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc07.pdf)
-
-## Séance 08 - le 19 avril 2017 (PV4)
-
-- Conférence Anysurfer
-- [Les slides](http://slides.anysurfer.be/reveal/tm2016_2017_fr.html#/)
-
-## Séance 09 - le 25 avril 2017
-
-- Gérer les erreurs
-- Rapidité
-- Liberté
-- Satisfaction
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours8.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc08.pdf)
-
-## Séance du 3 mai 2017 annulée pour cause de séance pédagogique
-
-## Séance 10 - le 10 mai 2017
-
-- Accessibilité
-	- Les standards
-	- Vidéo de Jérémy Patonnier sur les standards en entreprise
-	- Première définition de l’accessibilité
-	- Les situations de handicap
-	- Exemples
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours9.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc09.pdf)
-
-## Séance 11 - le 17 mai 2017
-
-- Points importants à vérifier  
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2017/cours10.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be/design-web/2017/sc10.pdf)
+## Séance 13 - le 16 mai 2018
+- [clic-droit pour télécharger la vidéo](http://www.domy.be)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be)
 
 ## Rappel de la matière en vue de l’examen
-- Les contenus des présentations lors des cours
-- Livre *Ergonomie Web* de Amélie Boucher, Ed. Eyrolles
-- [Directives Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
 
-## Quelques liens intéressants
+## Quelques liens incontournables
 - [A List Apart](http://www.alistapart.com)
 - [Smashing Magazine](http://www.smashingmagazine.com)
 - [Alsacreations](http://www.alsacreations.com)
