@@ -15,7 +15,7 @@
 - 10 principes pour du bon design selon Dieter Rams
 - Design is about how things work, not how they look
 - [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2018/cours01.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be/design-web/2018/cours01.mp4)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be/design-web/2018/cours01.pdf)
 
 ## Séance 02 - le 14 février 2018
 - [clic-droit pour télécharger la vidéo](http://www.domy.be)
