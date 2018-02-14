@@ -18,8 +18,15 @@
 - [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be/design-web/2018/cours01.pdf)
 
 ## Séance 02 - le 14 février 2018
-- [clic-droit pour télécharger la vidéo](http://www.domy.be)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be)
+
+- Comment interpréter cette conception dans le Web ?
+- UX Designer / UI Designer
+- Introduction à l’ergonomie Web
+- Définitions opérationnelles de la notion d’utilisabilité
+- Objectifs d’une démarche ergonomique
+- Les méthodes pour l’ergonomie Web (Amélie Boucher)
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2018/cours02.mp4)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be/design-web/2018/cours02.pdf)
 
 ## Séance 03 - le 21 février 2018
 - [clic-droit pour télécharger la vidéo](http://www.domy.be)
