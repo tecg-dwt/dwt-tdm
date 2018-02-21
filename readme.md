@@ -29,8 +29,10 @@
 - [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be/design-web/2018/cours02.pdf)
 
 ## Séance 03 - le 21 février 2018
-- [clic-droit pour télécharger la vidéo](http://www.domy.be)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be)
+- Idées reçues
+- Loi de la proximité
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2018/cours03.mp4)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be/design-web/2018/cours03.pdf)
 
 ## Séance 04 - le 28 février 2018
 - [clic-droit pour télécharger la vidéo](http://www.domy.be)
