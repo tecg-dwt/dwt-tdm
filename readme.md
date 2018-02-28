@@ -35,8 +35,13 @@
 - [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be/design-web/2018/cours03.pdf)
 
 ## Séance 04 - le 28 février 2018
-- [clic-droit pour télécharger la vidéo](http://www.domy.be)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be)
+- Loi de la similarité
+- Loi de Fitts
+- Loi de Hick
+- Principe de Pareto
+- Architecture de l’information (début)
+- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2018/cours04.mp4)
+- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.bedesign-web/2018/cours04.pdf)
 
 ## Séance 05 - le 07 mars 2018
 - [clic-droit pour télécharger la vidéo](http://www.domy.be)
