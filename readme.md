@@ -14,8 +14,8 @@
 	- Les métiers du Web
 - 10 principes pour du bon design selon Dieter Rams
 - Design is about how things work, not how they look
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2018/cours01.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be/design-web/2018/cours01.pdf)
+- [La vidéo](https://www.youtube.com/watch?v=PYvicSXWsZE&t=2s)
+- [Le pdf](https://fr.slideshare.net/secret/ai3VrzYlq3lSF0)
 
 ## Séance 02 - le 14 février 2018
 
@@ -25,14 +25,14 @@
 - Définitions opérationnelles de la notion d’utilisabilité
 - Objectifs d’une démarche ergonomique
 - Les méthodes pour l’ergonomie Web (Amélie Boucher)
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2018/cours02.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be/design-web/2018/cours02.pdf)
+- [La vidéo](https://www.youtube.com/watch?v=xJlVQ-tDsdY)
+- [Le pdf](https://fr.slideshare.net/secret/Jjuxk3DBC5ZJiN)
 
 ## Séance 03 - le 21 février 2018
 - Idées reçues
 - Loi de la proximité
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2018/cours03.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be/design-web/2018/cours03.pdf)
+- [La vidéo](https://www.youtube.com/watch?v=OxHN10fzaaQ)
+- [Le pdf](https://fr.slideshare.net/secret/o0S80eWa8B1K5Y)
 
 ## Séance 04 - le 28 février 2018
 - Loi de la similarité
@@ -40,44 +40,26 @@
 - Loi de Hick
 - Principe de Pareto
 - Architecture de l’information (début)
-- [clic-droit pour télécharger la vidéo](http://www.domy.be/design-web/2018/cours04.mp4)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.bedesign-web/2018/cours04.pdf)
+- [La vidéo](https://www.youtube.com/watch?v=LoCK_qsUOVQ)
+- [Le pdf](https://fr.slideshare.net/secret/oe7Lh5PST8towC)
 
 ## Séance 05 - le 07 mars 2018
-- [clic-droit pour télécharger la vidéo](http://www.domy.be)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be)
 
 ## Séance 06 - le 14 mars 2018
-- [clic-droit pour télécharger la vidéo](http://www.domy.be)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be)
 
 ## Séance 07 - le 21 mars 2018
-- [clic-droit pour télécharger la vidéo](http://www.domy.be)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be)
 
 ## Séance 08 - le 28 mars 2018
-- [clic-droit pour télécharger la vidéo](http://www.domy.be)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque-là](http://www.domy.be)
 
 ## Séance 09 - le 18 avril 2018
-- [clic-droit pour télécharger la vidéo](http://www.domy.be)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be)
 
 ## Séance 10 - du 25 avril 2018
-- [clic-droit pour télécharger la vidéo](http://www.domy.be)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be)
 
 ## Séance 11 - le 02 mai 2018
-- [clic-droit pour télécharger la vidéo](http://www.domy.be)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be)
 
 ## Séance 12 - le 09 mai 2018
-- [clic-droit pour télécharger la vidéo](http://www.domy.be)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be)
 
 ## Séance 13 - le 16 mai 2018
-- [clic-droit pour télécharger la vidéo](http://www.domy.be)
-- [clic-droit pour télécharger un pdf des supports utilisés jusque là](http://www.domy.be)
 
 ## Rappel de la matière en vue de l’examen
 
