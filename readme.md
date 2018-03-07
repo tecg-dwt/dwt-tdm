@@ -44,6 +44,11 @@
 - [Le pdf](https://fr.slideshare.net/secret/oe7Lh5PST8towC)
 
 ## Séance 05 - le 07 mars 2018
+- Architecture de l’information (suite)
+- Organisation visuelle de la page
+- Cohérence Interne (début)
+- [La vidéo](https://youtu.be/X5VEVURqCwc)
+- [Le pdf](https://fr.slideshare.net/secret/xjsZE6NWDaiftj)
 
 ## Séance 06 - le 14 mars 2018
 
@@ -52,6 +57,7 @@
 ## Séance 08 - le 28 mars 2018
 
 ## Séance 09 - le 18 avril 2018
+- Conférence Anysurfer
 
 ## Séance 10 - du 25 avril 2018
 
