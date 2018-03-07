@@ -47,7 +47,7 @@
 - Architecture de l’information (suite)
 - Organisation visuelle de la page
 - Cohérence Interne (début)
-- [La vidéo](https://youtu.be/X5VEVURqCwc)
+- [La vidéo]()
 - [Le pdf](https://fr.slideshare.net/secret/xjsZE6NWDaiftj)
 
 ## Séance 06 - le 14 mars 2018
