@@ -46,11 +46,17 @@
 ## Séance 05 - le 07 mars 2018
 - Architecture de l’information (suite)
 - Organisation visuelle de la page
-- Cohérence Interne (début)
+- Cohérence interne (début)
 - [La vidéo](https://youtu.be/BRpPijrxWq0)
 - [Le pdf](https://fr.slideshare.net/secret/xjsZE6NWDaiftj)
 
 ## Séance 06 - le 14 mars 2018
+- Cohérence interne (suite)
+- Cohérence externe
+- Information
+- Compréhension
+- La vidéo
+- [Le pdf](https://www.slideshare.net/secret/3WUogag3YPcWuE)
 
 ## Séance 07 - le 21 mars 2018
 
