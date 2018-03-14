@@ -55,7 +55,7 @@
 - Cohérence externe
 - Information
 - Compréhension
-- La vidéo
+- [La vidéo](https://youtu.be/6EBGnSgTRiE)
 - [Le pdf](https://www.slideshare.net/secret/3WUogag3YPcWuE)
 
 ## Séance 07 - le 21 mars 2018
