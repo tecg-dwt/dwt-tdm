@@ -59,6 +59,12 @@
 - [Le pdf](https://www.slideshare.net/secret/3WUogag3YPcWuE)
 
 ## Séance 07 - le 21 mars 2018
+- Compréhension (suite)
+- Assistance
+- Gérer les erreurs
+- Rapidité
+- [La vidéo](https://youtu.be/JZUU6I0f-ZM)
+- [Le pdf](https://www.slideshare.net/secret/1V65aZr9zu6PK6)
 
 ## Séance 08 - le 28 mars 2018
 
