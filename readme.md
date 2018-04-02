@@ -67,6 +67,7 @@
 - [Le pdf](https://www.slideshare.net/secret/1V65aZr9zu6PK6)
 
 ## Séance 08 - le 28 mars 2018
+- Cours annulé -> prof. absent
 
 ## Séance 09 - le 18 avril 2018
 - Conférence Anysurfer
@@ -74,6 +75,7 @@
 ## Séance 10 - du 25 avril 2018
 
 ## Séance 11 - le 02 mai 2018
+- Cours annulé -> séance pédagogique
 
 ## Séance 12 - le 09 mai 2018
 
