@@ -71,6 +71,8 @@
 
 ## Séance 09 - le 18 avril 2018
 - Conférence Anysurfer
+- [Le travail à réaliser](http://student.anysurfer.be/)
+- [Les Slides](http://slides.anysurfer.be/reveal/tm2017_2018_FR.html)
 
 ## Séance 10 - du 25 avril 2018
 
