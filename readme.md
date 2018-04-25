@@ -75,6 +75,10 @@
 - [Les Slides](http://slides.anysurfer.be/reveal/tm2017_2018_FR.html)
 
 ## Séance 10 - du 25 avril 2018
+- Liberté
+- Accessibilité - 1
+- [La vidéo](https://youtu.be/DHdfEW0C90Q)
+- Les slides sont à venir… Slideshare est en panne…
 
 ## Séance 11 - le 02 mai 2018
 - Cours annulé -> séance pédagogique
@@ -84,6 +88,8 @@
 ## Séance 13 - le 16 mai 2018
 
 ## Rappel de la matière en vue de l’examen
+- Le livre d’Amélie Boucher
+- [Les directives d’Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
 
 ## Quelques liens incontournables
 - [A List Apart](http://www.alistapart.com)
