@@ -78,7 +78,7 @@
 - Liberté
 - Accessibilité - 1
 - [La vidéo](https://youtu.be/DHdfEW0C90Q)
-- Les slides sont à venir… Slideshare est en panne…
+- [Les slides](https://speakerdeck.com/dominiquevilain/design-web-theorie-2018-cours-09-1)
 
 ## Séance 11 - le 02 mai 2018
 - Cours annulé -> séance pédagogique
