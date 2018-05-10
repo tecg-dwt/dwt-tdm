@@ -86,6 +86,11 @@
 
 ## Séance 12 - le 09 mai 2018
 
+- Accessibilité - 2
+	- Règles du WCAG
+	- Points Importants à vérifier
+- [La vidéo](https://youtu.be/imIkt4OjNvk)
+	
 ## Séance 13 - le 16 mai 2018
 
 ## Rappel de la matière en vue de l’examen
