@@ -1,6 +1,6 @@
 # Design Web - Table des matières et planning du cours
 
-## Séance 01 - le 07 février 2018
+## Séance 01 - le 08 février 2019
 
 - Présentation de l’enseignant
 - Présentation des cours de l’orientation Web à la HEPL
@@ -14,84 +14,34 @@
 	- Les métiers du Web
 - 10 principes pour du bon design selon Dieter Rams
 - Design is about how things work, not how they look
-- [La vidéo](https://www.youtube.com/watch?v=PYvicSXWsZE&t=2s)
+- [La vidéo](https://youtu.be/YwzCXfM5b-I)
 - [Le pdf](https://fr.slideshare.net/secret/ai3VrzYlq3lSF0)
 
-## Séance 02 - le 14 février 2018
+## Séance 02 - le 15 février 2019
 
-- Comment interpréter cette conception dans le Web ?
-- UX Designer / UI Designer
-- Introduction à l’ergonomie Web
-- Définitions opérationnelles de la notion d’utilisabilité
-- Objectifs d’une démarche ergonomique
-- Les méthodes pour l’ergonomie Web (Amélie Boucher)
-- [La vidéo](https://www.youtube.com/watch?v=xJlVQ-tDsdY)
-- [Le pdf](https://fr.slideshare.net/secret/Jjuxk3DBC5ZJiN)
+## Séance 03 - le 22 février 2019
 
-## Séance 03 - le 21 février 2018
-- Idées reçues
-- Loi de la proximité
-- [La vidéo](https://www.youtube.com/watch?v=OxHN10fzaaQ)
-- [Le pdf](https://fr.slideshare.net/secret/o0S80eWa8B1K5Y)
+## Séance 04 - le 01 mars 2019
 
-## Séance 04 - le 28 février 2018
-- Loi de la similarité
-- Loi de Fitts
-- Loi de Hick
-- Principe de Pareto
-- Architecture de l’information (début)
-- [La vidéo](https://www.youtube.com/watch?v=LoCK_qsUOVQ)
-- [Le pdf](https://fr.slideshare.net/secret/oe7Lh5PST8towC)
+## Séance 05 - le 08 mars 2019
 
-## Séance 05 - le 07 mars 2018
-- Architecture de l’information (suite)
-- Organisation visuelle de la page
-- Cohérence interne (début)
-- [La vidéo](https://youtu.be/BRpPijrxWq0)
-- [Le pdf](https://fr.slideshare.net/secret/xjsZE6NWDaiftj)
+## Séance 06 - le 15 mars 2019
 
-## Séance 06 - le 14 mars 2018
-- Cohérence interne (suite)
-- Cohérence externe
-- Information
-- Compréhension
-- [La vidéo](https://youtu.be/6EBGnSgTRiE)
-- [Le pdf](https://www.slideshare.net/secret/3WUogag3YPcWuE)
+## Séance 07 - le 22 mars 2019
 
-## Séance 07 - le 21 mars 2018
-- Compréhension (suite)
-- Assistance
-- Gérer les erreurs
-- Rapidité
-- [La vidéo](https://youtu.be/JZUU6I0f-ZM)
-- [Le pdf](https://www.slideshare.net/secret/1V65aZr9zu6PK6)
+## Séance 08 - le 29 mars 2019
 
-## Séance 08 - le 28 mars 2018
-- Cours annulé -> prof. absent
+## Séance 09 - le 05 avril 2019
 
-## Séance 09 - le 18 avril 2018
+## Séance 10 - du 26 avril 2019
+
 - Conférence Anysurfer
-- [Le travail à réaliser](http://student.anysurfer.be/)
-- [Les Slides](http://slides.anysurfer.be/reveal/tm2017_2018_FR.html)
 
-## Séance 10 - du 25 avril 2018
-- Liberté
-- Accessibilité - 1
-- [La vidéo](https://youtu.be/DHdfEW0C90Q)
-- [Les slides](https://speakerdeck.com/dominiquevilain/design-web-theorie-2018-cours-09-1)
-- [Les slides](https://speakerdeck.com/dominiquevilain/design-web-theorie-2018-cours-09-2)
+## Séance 11 - le 03 mai 2019
 
-## Séance 11 - le 02 mai 2018
-- Cours annulé -> séance pédagogique
-
-## Séance 12 - le 09 mai 2018
-
-- Accessibilité - 2
-	- Règles du WCAG
-	- Points Importants à vérifier
-- [La vidéo](https://youtu.be/imIkt4OjNvk)
+## Séance 12 - le 10 mai 2019
 	
-## Séance 13 - le 16 mai 2018
+## Séance 13 - le 17 mai 2019
 
 ## Rappel de la matière en vue de l’examen
 - Le livre d’Amélie Boucher
