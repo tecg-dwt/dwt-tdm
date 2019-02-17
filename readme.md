@@ -19,6 +19,16 @@
 
 ## Séance 02 - le 15 février 2019
 
+- Comment interpréter cette conception dans le Web ?
+- UX Designer / UI Designer
+- Introduction à l’ergonomie Web
+- Définitions opérationnelles de la notion d’utilisabilité
+- Objectifs d’une démarche ergonomique
+- Les méthodes pour l’ergonomie Web (Amélie Boucher)
+- Idées reçues
+- [La vidéo](https://youtu.be/ksBA56EAJq4)
+- [Le pdf](https://fr.slideshare.net/secret/Jjuxk3DBC5ZJiN)
+
 ## Séance 03 - le 22 février 2019
 
 ## Séance 04 - le 01 mars 2019
