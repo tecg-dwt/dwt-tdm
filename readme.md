@@ -31,6 +31,14 @@
 
 ## Séance 03 - le 22 février 2019
 
+- Idées reçues - suite
+- Loi de la proximité
+- Loi de la similarité
+- Loi de Fitts
+- Affordance
+- [La vidéo](https://youtu.be/ghIvUtgcvLU)
+- [Le pdf](https://www.slideshare.net/secret/o0S80eWa8B1K5Y)
+
 ## Séance 04 - le 01 mars 2019
 
 ## Séance 05 - le 08 mars 2019
@@ -39,7 +47,7 @@
 
 ## Séance 07 - le 22 mars 2019
 
-## Séance 08 - le 29 mars 2019
+## Séance 08 - le 29 mars 2019 - ⚠️ à l’auditoire Edison
 
 ## Séance 09 - le 05 avril 2019
 
