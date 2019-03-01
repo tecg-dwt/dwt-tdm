@@ -45,7 +45,7 @@
 - Loi de Hick
 - Principe de Pareto
 - Architecture
-- [La vidéo](https://youtu.be)
+- [La vidéo](https://youtu.be/O40h9kezdo0)
 - [Le premier pdf](https://www.slideshare.net/secret/oe7Lh5PST8towC)
 - [Le second pdf](https://www.slideshare.net/secret/xjsZE6NWDaiftj)
 
