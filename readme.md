@@ -41,6 +41,14 @@
 
 ## Séance 04 - le 01 mars 2019
 
+- Affordance
+- Loi de Hick
+- Principe de Pareto
+- Architecture
+- [La vidéo](https://youtu.be/ghIvUtgcvLU)
+- [Le pdf](https://www.slideshare.net/secret/oe7Lh5PST8towC)
+- [Le pdf](https://www.slideshare.net/secret/xjsZE6NWDaiftj)
+
 ## Séance 05 - le 08 mars 2019
 
 ## Séance 06 - le 15 mars 2019
