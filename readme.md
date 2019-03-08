@@ -51,6 +51,12 @@
 
 ## Séance 05 - le 08 mars 2019
 
+- Architecture
+- Organisation visuelle de la page
+- Cohérence interne
+- [La vidéo](https://youtu.be/XdX2gLtHe4w)
+- [Le pdf](https://www.slideshare.net/secret/xjsZE6NWDaiftj)
+
 ## Séance 06 - le 15 mars 2019
 
 ## Séance 07 - le 22 mars 2019
