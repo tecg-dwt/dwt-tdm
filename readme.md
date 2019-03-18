@@ -59,6 +59,12 @@
 
 ## Séance 06 - le 15 mars 2019
 
+- Cohérence externe
+- Information
+- Compréhension
+- [La vidéo](https://youtu.be/zZGIxNXt-Rc)
+- [Le pdf](https://www.slideshare.net/secret/xjsZE6NWDaiftj)
+
 ## Séance 07 - le 22 mars 2019
 
 ## Séance 08 - le 29 mars 2019 - ⚠️ à l’auditoire Edison
