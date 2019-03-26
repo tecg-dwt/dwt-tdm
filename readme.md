@@ -67,6 +67,13 @@
 
 ## Séance 07 - le 22 mars 2019
 
+- Assistance
+- Gérer les erreurs
+- Rapidité
+- Liberté
+- Satisfaction
+- [La vidéo](https://youtu.be/XtVA-iCXLpY)
+
 ## Séance 08 - le 29 mars 2019 - ⚠️ à l’auditoire Edison
 
 ## Séance 09 - le 05 avril 2019
