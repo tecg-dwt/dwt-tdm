@@ -73,7 +73,7 @@
 - Liberté
 - Satisfaction
 - [La vidéo](https://youtu.be/XtVA-iCXLpY)
-- [Le pdf](https://www.slideshare.net/secret/xjsZE6NWDaiftj)
+- [Le pdf](https://www.slideshare.net/secret/1V65aZr9zu6PK6)
 - [Le pdf](https://speakerdeck.com/dominiquevilain/design-web-theorie-2018-cours-09-1)
 
 ## Séance 08 - le 29 mars 2019 - ⚠️ à l’auditoire Edison
