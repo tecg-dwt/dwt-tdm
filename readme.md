@@ -83,6 +83,9 @@
 
 ## Séance 09 - le 05 avril 2019
 
+- Accessibilité
+- [La vidéo](https://youtu.be/CMgLlSWtSXU)
+
 ## Séance 10 - du 26 avril 2019
 
 - Conférence Anysurfer
