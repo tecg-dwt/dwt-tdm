@@ -92,9 +92,18 @@
 
 ## Séance 11 - le 03 mai 2019
 
+- Cours annulé, prof. malade
+
 ## Séance 12 - le 10 mai 2019
+
+- Accessibilité
+- Performances, les enjeux
+- [La vidéo](https://youtu.be/Z5PH2_937h0)
 	
 ## Séance 13 - le 17 mai 2019
+
+- Performances, aspects techniques
+- [La vidéo](https://youtu.be/KXsVpSVVbMo)
 
 ## Rappel de la matière en vue de l’examen
 - Le livre d’Amélie Boucher
