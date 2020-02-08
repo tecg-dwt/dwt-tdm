@@ -15,6 +15,7 @@
 - 10 principes pour du bon design selon Dieter Rams
 - Design is about how things work, not how they look
 - [La vidéo](https://youtu.be/kaousklcBXM)
+- [Le PDF](https://speakerdeck.com/dominiquevilain/design-web-theorie-2020-cours-01)
 
 ## Rappel de la matière en vue de l’examen
 - Le livre d’Amélie Boucher
