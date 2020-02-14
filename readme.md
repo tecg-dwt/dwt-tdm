@@ -17,6 +17,17 @@
 - [La vidéo](https://youtu.be/kaousklcBXM)
 - [Le PDF](https://speakerdeck.com/dominiquevilain/design-web-theorie-2020-cours-01)
 
+## Séance 02 - le 13 février 2020
+
+- Comment interpréter cette conception dans le Web ?
+- UX Designer / UI Designer
+- Introduction à l’ergonomie Web
+- Définitions opérationnelles de la notion d’utilisabilité
+- Objectifs d’une démarche ergonomique
+- Les méthodes pour l’ergonomie Web (Amélie Boucher)
+- [La vidéo](https://youtu.be/jMCRuK2a9bg)
+- [Le pdf](https://speakerdeck.com/dominiquevilain/design-web-theorie-2020-cours-02)
+
 ## Rappel de la matière en vue de l’examen
 - Le livre d’Amélie Boucher
 - [Les directives d’Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
