@@ -28,6 +28,13 @@
 - [La vidéo](https://youtu.be/jMCRuK2a9bg)
 - [Le pdf](https://speakerdeck.com/dominiquevilain/design-web-theorie-2020-cours-02)
 
+## Séance 03 - le 20 février 2020
+
+- Idées reçues
+- Loi de la proximité
+- [La vidéo](https://youtu.be/xcH2uCzp6xM)
+- [Le pdf](https://speakerdeck.com/dominiquevilain/design-web-theorie-2020-cours-03)
+
 ## Rappel de la matière en vue de l’examen
 - Le livre d’Amélie Boucher
 - [Les directives d’Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
