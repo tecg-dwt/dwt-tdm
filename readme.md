@@ -35,6 +35,16 @@
 - [La vidéo](https://youtu.be/xcH2uCzp6xM)
 - [Le pdf](https://speakerdeck.com/dominiquevilain/design-web-theorie-2020-cours-03)
 
+## Séance 04 - le 27 février 2020
+
+- Loi de la similarité
+- Loi de Fitts
+- Affordance
+- Loi de Hick
+- Principe de Pareto
+- [La vidéo](https://youtu.be/XTwSl52_VY8)
+- [Le pdf](https://speakerdeck.com/dominiquevilain/design-web-theorie-2020-cours-04)
+
 ## Rappel de la matière en vue de l’examen
 - Le livre d’Amélie Boucher
 - [Les directives d’Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
