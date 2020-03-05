@@ -43,7 +43,15 @@
 - Loi de Hick
 - Principe de Pareto
 - [La vidéo](https://youtu.be/XTwSl52_VY8)
-- [Le pdf](https://speakerdeck.com/dominiquevilain/design-web-theorie-2020-cours-04)
+- [Le pdf](https://speakerdeck.com/dominiquevilain/design-web-theorie-2020-cours-04)le 
+
+## Séance 05 - le 05 mars 2020
+
+- Concepts
+- Architecture
+- Organisation visuelle
+- [La vidéo](https://www.youtu.be/TqeXxcjQqD4)
+- [Le pdf](https://speakerdeck.com/dominiquevilain/design-web-theorie-2020-cours-05)
 
 ## Rappel de la matière en vue de l’examen
 - Le livre d’Amélie Boucher
