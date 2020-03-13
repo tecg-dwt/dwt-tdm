@@ -59,7 +59,7 @@ séance plus courte pour cause de SWOT
 
 - Organisation visuelle
 - Cohérence interne
-- [La vidéo](https://www.youtu.be/QTQpllPiWJ0)
+- [La vidéo](https://www.youtube.com/watch?v=QTQpllPiWJ0)
 
 ## Rappel de la matière en vue de l’examen
 - Le livre d’Amélie Boucher
