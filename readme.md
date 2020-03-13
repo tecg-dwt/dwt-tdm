@@ -50,7 +50,7 @@
 - Concepts
 - Architecture
 - Organisation visuelle
-- [La vidéo](https://www.youtu.be/TqeXxcjQqD4)
+- [La vidéo](https://www.youtube.com/watch?v=TqeXxcjQqD4)
 - [Le pdf](https://speakerdeck.com/dominiquevilain/design-web-theorie-2020-cours-05)
 
 ## Séance 06 - le 12 mars 2020
