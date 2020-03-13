@@ -53,6 +53,14 @@
 - [La vidéo](https://www.youtu.be/TqeXxcjQqD4)
 - [Le pdf](https://speakerdeck.com/dominiquevilain/design-web-theorie-2020-cours-05)
 
+## Séance 06 - le 12 mars 2020
+
+séance plus courte pour cause de SWOT
+
+- Organisation visuelle
+- Cohérence interne
+-[La vidéo](https://www.youtu.be/QTQpllPiWJ0)
+
 ## Rappel de la matière en vue de l’examen
 - Le livre d’Amélie Boucher
 - [Les directives d’Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
