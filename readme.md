@@ -53,13 +53,40 @@
 - [La vidéo](https://www.youtube.com/watch?v=TqeXxcjQqD4)
 - [Le pdf](https://speakerdeck.com/dominiquevilain/design-web-theorie-2020-cours-05)
 
-## Séance 06 - le 12 mars 2020
-
-séance plus courte pour cause de SWOT
+## Séance 06 - le 12 mars 2020 - abrégée pour cause de SWOT
 
 - Organisation visuelle
 - Cohérence interne
 - [La vidéo](https://www.youtube.com/watch?v=QTQpllPiWJ0)
+
+## Séance 07 - le 19 mars 2020 - coronavirus -> séance 2019
+
+- Cohérence externe
+- Information
+- Compréhension
+- [La vidéo](https://youtu.be/XdX2gLtHe4w?t=4699)
+- [La vidéo, suite](https://www.youtube.com/watch?v=zZGIxNXt-Rc)
+
+## Séance 08 - le 26 mars 2020 - coronavirus -> séance 2019
+
+- Assistance
+- Gérer les erreurs
+- Rapidité
+- Liberté
+- Satisfaction
+- [La vidéo](https://www.youtube.com/watch?v=XtVA-iCXLpY)
+
+## Séance 09 - le 02 avril 2020 - coronavirus -> séance 2019
+
+- Accessibilité des sites Web
+- Enjeux
+- Référencement
+- Situations de handicap
+- Exemples
+- Accessibilité en tant que droit
+- Lois
+- Normes
+- [La vidéo](https://www.youtube.com/watch?v=7yAcZH_hG2U)
 
 ## Rappel de la matière en vue de l’examen
 - Le livre d’Amélie Boucher
