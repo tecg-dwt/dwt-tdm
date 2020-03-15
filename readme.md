@@ -43,7 +43,7 @@
 - Loi de Hick
 - Principe de Pareto
 - [La vidéo](https://youtu.be/XTwSl52_VY8)
-- [Le pdf](https://speakerdeck.com/dominiquevilain/design-web-theorie-2020-cours-04)le 
+- [Le pdf](https://speakerdeck.com/dominiquevilain/design-web-theorie-2020-cours-04) 
 
 ## Séance 05 - le 05 mars 2020
 
