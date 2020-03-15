@@ -58,6 +58,7 @@
 - Organisation visuelle
 - Cohérence interne
 - [La vidéo](https://www.youtube.com/watch?v=QTQpllPiWJ0)
+- [PDF](https://www.slideshare.net/secret/xjsZE6NWDaiftj)
 
 ## Séance 07 - le 19 mars 2020 - coronavirus -> séance 2019
 
@@ -66,6 +67,7 @@
 - Compréhension
 - [La vidéo](https://youtu.be/XdX2gLtHe4w?t=4699)
 - [La vidéo, suite](https://www.youtube.com/watch?v=zZGIxNXt-Rc)
+- [PDF](https://www.slideshare.net/secret/xjsZE6NWDaiftj)
 
 ## Séance 08 - le 26 mars 2020 - coronavirus -> séance 2019
 
@@ -75,6 +77,8 @@
 - Liberté
 - Satisfaction
 - [La vidéo](https://www.youtube.com/watch?v=XtVA-iCXLpY)
+- [PDF](https://www.slideshare.net/secret/1V65aZr9zu6PK6)
+- [PDF](https://speakerdeck.com/dominiquevilain/design-web-theorie-2018-cours-09-1)
 
 ## Séance 09 - le 02 avril 2020 - coronavirus -> séance 2019
 
@@ -87,6 +91,7 @@
 - Lois
 - Normes
 - [La vidéo](https://www.youtube.com/watch?v=7yAcZH_hG2U)
+- [PDF](https://speakerdeck.com/dominiquevilain/design-web-theorie-2019-cours-09)
 
 ## Rappel de la matière en vue de l’examen
 - Le livre d’Amélie Boucher
