@@ -67,7 +67,7 @@
 - Compréhension
 - [La vidéo](https://youtu.be/XdX2gLtHe4w?t=4699)
 - [La vidéo, suite](https://www.youtube.com/watch?v=zZGIxNXt-Rc)
-- [PDF](https://www.slideshare.net/secret/xjsZE6NWDaiftj)
+- [PDF](https://www.slideshare.net/secret/3WUogag3YPcWuE)
 
 ## Séance 08 - le 26 mars 2020 - coronavirus -> séance 2019
 
