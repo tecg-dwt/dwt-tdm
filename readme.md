@@ -93,6 +93,28 @@
 - [La vidéo](https://www.youtube.com/watch?v=7yAcZH_hG2U)
 - [PDF](https://speakerdeck.com/dominiquevilain/design-web-theorie-2019-cours-09)
 
+## Séance 10 - le 23 avril 2020 - coronavirus -> séance 2019
+
+- Accessibilité des sites Web
+- [La vidéo](https://www.youtube.com/watch?v=CMgLlSWtSXU)
+
+## Séance 11 - le 30 avril 2020 - coronavirus -> séance 2019
+
+- Accessibilité
+- [La vidéo](https://www.youtube.com/watch?v=Z5PH2_937h0)
+
+## Séance 12 - le 07 mai 2020 - coronavirus -> séance 2019
+
+- Performances, aspects techniques
+- [La vidéo](https://www.youtube.com/watch?v=KXsVpSVVbMo)
+
+## Séance 13 - le 14 mai 2020 - coronavirus -> séance 2019
+
+- Conférence Anne-Sophie Fradier
+- [La vidéo](https://www.dailymotion.com/video/xfpf08)
+- Conférence de Mike Monteiro
+- [La vidéo](https://www.dailymotion.com/video/xvbacz)
+
 ## Rappel de la matière en vue de l’examen
 - Le livre d’Amélie Boucher
 - [Les directives d’Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
