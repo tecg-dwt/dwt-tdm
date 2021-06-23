@@ -116,7 +116,7 @@
 - [La vidéo](https://www.dailymotion.com/video/xvbacz)
 
 ## Rappel de la matière en vue de l’examen
-- Le livre d’Amélie Boucher
+- Le livre d’Amélie Boucher sur l'Ergnonomie Web aux Éditions Eyrolles
 - [Les directives d’Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
 
 ## Quelques liens incontournables
