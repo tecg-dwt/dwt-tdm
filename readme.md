@@ -1,6 +1,6 @@
 # Design Web - Table des matières et planning du cours
 
-## La playlist avec les vidéos de l’année académique 2021-2022
+[La playlist avec les vidéos de l’année académique 2021-2022](https://www.youtube.com/playlist?list=PLg9HTCEtaWMgmGm2BLD_6t_-SPwafS1es)
 
 ## Séance 01
 
