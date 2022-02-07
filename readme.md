@@ -22,6 +22,7 @@
 - [Les directives d’Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
 
 ## Quelques liens incontournables
+- [Opquast](https://checklists.opquast.com/fr/assurance-qualite-web/)
 - [A List Apart](http://www.alistapart.com)
 - [Smashing Magazine](http://www.smashingmagazine.com)
 - [Alsacreations](http://www.alsacreations.com)
