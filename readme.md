@@ -17,6 +17,15 @@
 - 10 principes pour du bon design selon Dieter Rams
 - [Le PDF](pdfs/2022/01.pdf)
 
+## Séance 02
+
+- Comment interpréter cette conception dans le Web ?
+- UX Designer / UI Designer
+- Introduction à l’ergonomie Web
+- Définitions opérationnelles de la notion d’utilisabilité
+- Objectifs d’une démarche ergonomique
+- [Le PDF](pdfs/2022/02.pdf)
+
 ## Rappel de la matière en vue de l’examen
 - Le livre d’Amélie Boucher sur l'Ergnonomie Web aux Éditions Eyrolles
 - [Les directives d’Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
