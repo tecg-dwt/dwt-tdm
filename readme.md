@@ -4,6 +4,8 @@
 
 ## Séance 01
 
+*3 février 2022*
+
 - Présentation de l’enseignant
 - Présentation des cours de l’orientation Web à la HEPL
 - Énumération des thèmes du cours :
@@ -18,6 +20,8 @@
 - [Le PDF](pdfs/2022/01.pdf)
 
 ## Séance 02
+
+*17 février 2022*
 
 - Comment interpréter cette conception dans le Web ?
 - UX Designer / UI Designer
