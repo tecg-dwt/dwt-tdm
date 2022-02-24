@@ -30,6 +30,14 @@
 - Objectifs d’une démarche ergonomique
 - [Le PDF](pdfs/2022/02.pdf)
 
+## Séance 03
+
+*24 février 2022*
+
+- Les méthodes pour l’ergonomie Web (Amélie Boucher)
+- Idées reçues
+- [Le PDF](pdfs/2022/03.pdf)
+
 ## Rappel de la matière en vue de l’examen
 - Le livre d’Amélie Boucher sur l'Ergnonomie Web aux Éditions Eyrolles
 - [Les directives d’Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
