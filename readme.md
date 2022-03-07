@@ -37,6 +37,10 @@
 - Les méthodes pour l’ergonomie Web (Amélie Boucher)
 - Idées reçues
 - [Le PDF](pdfs/2022/03.pdf)
+- ⚠️ Youtube a planté lors de la conversion de la vidéo. La vidéo apparaît dans la playlist comme supprimée, ce qui indique qu’en fait, elle existe bel et bien mais qu’ils ont rencontré un problème lors de la conversion. Elle est dès lors inaccessible. Je vous mets ici le lien vers une ancienne édition du même contenu. ⚠️
+  - [Partie 1](https://www.youtube.com/watch?v=jMCRuK2a9bg&t=5297s)
+  - [Partie 2](https://www.youtube.com/watch?v=xcH2uCzp6xM)
+
 
 ## Rappel de la matière en vue de l’examen
 - Le livre d’Amélie Boucher sur l'Ergnonomie Web aux Éditions Eyrolles
