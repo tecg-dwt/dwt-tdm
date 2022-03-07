@@ -42,7 +42,20 @@
   - [Partie 2](https://www.youtube.com/watch?v=xcH2uCzp6xM)
 
 
+## Séance 04
+
+*03 mars 2022*
+
+- Loi de la proximité
+- Loi de la similarité
+- Loi de Fitts
+- Affordance
+- Loi de Hick
+- Principe de Pareto
+- [Le PDF](pdfs/2022/04.pdf)
+
 ## Rappel de la matière en vue de l’examen
+
 - Le livre d’Amélie Boucher sur l'Ergnonomie Web aux Éditions Eyrolles
 - [Les directives d’Anysurfer](http://www.anysurfer.be/fr/en-pratique/directives)
 
