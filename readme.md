@@ -54,6 +54,14 @@
 - Principe de Pareto
 - [Le PDF](pdfs/2022/04.pdf)
 
+## Séance 05
+
+*10 mars 2022*
+
+- Architecture
+- Organisation visuelle de la page
+- [Le PDF](pdfs/2022/05.pdf)
+
 ## Rappel de la matière en vue de l’examen
 
 - Le livre d’Amélie Boucher sur l'Ergnonomie Web aux Éditions Eyrolles
