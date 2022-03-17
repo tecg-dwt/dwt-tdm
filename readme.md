@@ -62,6 +62,15 @@
 - Organisation visuelle de la page
 - [Le PDF](pdfs/2022/05.pdf)
 
+## Séance 06
+
+*17 mars 2022*
+
+- Organisation visuelle de la page
+- Cohérence interne
+- [Le PDF](pdfs/2022/06.pdf)
+- ⚠️ Le projecteur vidéo n’a pas été reconnu comme source de ma capture vidéo et la vidéo se retrouve dès lors sans partie vidéo. Il n’y a que la bande son. Si vous souhaitez voir ce replay, vous pouvez écouter la bande son avec le support PDF en visuel et/ou regarder [la dernière présentation équivalente enregistrée](https://www.youtube.com/watch?v=QTQpllPiWJ0) ⚠️
+
 ## Rappel de la matière en vue de l’examen
 
 - Le livre d’Amélie Boucher sur l'Ergnonomie Web aux Éditions Eyrolles
