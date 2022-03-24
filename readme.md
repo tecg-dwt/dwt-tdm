@@ -71,6 +71,15 @@
 - [Le PDF](pdfs/2022/06.pdf)
 - ⚠️ Le projecteur vidéo n’a pas été reconnu comme source de ma capture vidéo et la vidéo se retrouve dès lors sans partie vidéo. Il n’y a que la bande son. Si vous souhaitez voir ce replay, vous pouvez écouter la bande son avec le support PDF en visuel et/ou regarder [la dernière présentation équivalente enregistrée](https://www.youtube.com/watch?v=QTQpllPiWJ0) ⚠️
 
+## Séance 07
+
+*24 mars 2022*
+
+- Cohérence externe
+- Information
+- Assistance
+- [Le PDF](pdfs/2022/07.pdf)
+
 ## Rappel de la matière en vue de l’examen
 
 - Le livre d’Amélie Boucher sur l'Ergnonomie Web aux Éditions Eyrolles
