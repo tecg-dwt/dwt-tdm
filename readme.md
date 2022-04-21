@@ -80,6 +80,28 @@
 - Assistance
 - [Le PDF](pdfs/2022/07.pdf)
 
+## Séance 08
+
+*31 mars 2022*
+
+- Erreurs
+- Rapidité
+- Liberté
+- Satisfaction
+- [Le PDF](pdfs/2022/08.pdf)
+
+## Séance 09
+
+*21 avril 2022*
+
+- Accessibilité
+- Standards
+- Référencement
+- Situations de handicap
+- Exemples
+- Le droit, les lois
+- [Le PDF](pdfs/2022/09.pdf)
+
 ## Rappel de la matière en vue de l’examen
 
 - Le livre d’Amélie Boucher sur l'Ergnonomie Web aux Éditions Eyrolles
@@ -87,6 +109,8 @@
 
 ## Quelques liens incontournables
 - [Opquast](https://checklists.opquast.com/fr/assurance-qualite-web/)
+- [Principes de conception inclusive](https://inclusivedesignprinciples.org/fr/)
+- [Composants Inclusifs](https://inclusive-components.design/)
 - [A List Apart](http://www.alistapart.com)
 - [Smashing Magazine](http://www.smashingmagazine.com)
 - [Alsacreations](http://www.alsacreations.com)
