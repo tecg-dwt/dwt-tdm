@@ -102,6 +102,13 @@
 - Le droit, les lois
 - [Le PDF](pdfs/2022/09.pdf)
 
+## Séance 10
+
+*12 mai 2022*
+
+- Évaluer l’accessibilité, les points importants
+- [Le PDF](pdfs/2022/10.pdf)
+
 ## Rappel de la matière en vue de l’examen
 
 - Le livre d’Amélie Boucher sur l'Ergnonomie Web aux Éditions Eyrolles
