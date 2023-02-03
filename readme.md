@@ -15,7 +15,7 @@
 	- Culture du Web
 	- Les métiers du Web
 - 10 principes pour du bon design selon Dieter Rams
-- [Le PDF](pdfs/2023/01.pdf)
+- [Le PDF](pdfs/01.pdf)
 
 ## Rappel de la matière en vue de l’examen
 
