@@ -14,7 +14,7 @@
 	- Le design graphique et émotionnel
 	- Culture du Web
 	- Les métiers du Web
-- 10 principes pour du bon design selon Dieter Rams
+- [10 principes pour du bon design selon Dieter Rams](https://fr.wikipedia.org/wiki/Dieter_Rams)
 - [Le PDF](pdfs/01.pdf)
 
 ## Rappel de la matière en vue de l’examen
