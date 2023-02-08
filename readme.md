@@ -2,7 +2,7 @@
 
 ## Séance 01
 
-*3 février 2022*
+*3 février 2023*
 
 - Présentation de l’enseignant
 - Présentation des cours de l’orientation Web à la HEPL
