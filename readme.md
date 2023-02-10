@@ -17,6 +17,17 @@
 - [10 principes pour du bon design selon Dieter Rams](https://fr.wikipedia.org/wiki/Dieter_Rams)
 - [Le PDF](pdfs/01.pdf)
 
+*10 février 2023*
+
+- Application de cette conception au Web
+- Différentes conceptions du design : UXD/UID
+- Ergnonomie Web ? Contextuelle et ≠ bon sens
+- Utilité, Utilisabilité, normes et définitions
+- [Awwwards](https://www.awwwards.com)
+- [UserOnBoard](https://www.useronboard.com)
+- [Compétences informatiques dans l’OCDE](https://www.nngroup.com/articles/computer-skill-levels/)
+- [Le PDF](pdfs/02.pdf)
+
 ## Rappel de la matière en vue de l’examen
 
 - À définir
