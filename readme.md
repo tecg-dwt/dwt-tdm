@@ -28,6 +28,12 @@
 - [Compétences informatiques dans l’OCDE](https://www.nngroup.com/articles/computer-skill-levels/)
 - [Le PDF](pdfs/02.pdf)
 
+*17 février 2023*
+
+- Illustration des idées reçues décrites dans le livre
+- Loi de la proximité
+- [Le PDF](pdfs/03.pdf)
+
 ## Rappel de la matière en vue de l’examen
 
 - À définir
