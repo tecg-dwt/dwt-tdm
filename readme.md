@@ -34,6 +34,15 @@
 - Loi de la proximité
 - [Le PDF](pdfs/03.pdf)
 
+*03 mars 2023*
+
+- Loi de la similarité
+- Loi de Fitts
+- Loi de Hick
+- Affordance
+- Principe de Pareto
+- [Le PDF](pdfs/04.pdf)
+
 ## Rappel de la matière en vue de l’examen
 
 - À définir
