@@ -50,6 +50,11 @@
 - [Le PDF](https://raw.githubusercontent.com/tecg-dwt/dwt-tdm/1b041816165a8d60a5447d4f809ccd151386a1fc/pdfs/2022/05.pdf)
 - [La vidéo](https://www.youtube.com/watch?v=ydgRBa-LByc)
 
+*17 mars 2023*
+
+- Organisation visuelle - suite
+- Cohérence interne
+- [Le PDF](pdfs/06.pdf)
 
 ## Rappel de la matière en vue de l’examen
 
