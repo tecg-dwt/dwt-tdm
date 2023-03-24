@@ -56,6 +56,14 @@
 - Cohérence interne
 - [Le PDF](pdfs/06.pdf)
 
+*23 mars 2023*
+
+- Cohérence externe
+- Information
+- Compréhension
+- Assistance
+- [Le PDF](pdfs/07.pdf)
+
 ## Rappel de la matière en vue de l’examen
 
 - À définir
