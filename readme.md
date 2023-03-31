@@ -90,3 +90,4 @@
 - [CSS Tricks](http://www.css-tricks.com)
 - [Hteumeuleu](http://www.hteumeuleu.fr)
 - [Codrops](http://tympanus.net/codrops/)
+- [Form Patterns](https://formdesignpatterns.com/)
