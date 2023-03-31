@@ -56,13 +56,24 @@
 - Cohérence interne
 - [Le PDF](pdfs/06.pdf)
 
-*23 mars 2023*
+*24 mars 2023*
 
 - Cohérence externe
 - Information
 - Compréhension
 - Assistance
 - [Le PDF](pdfs/07.pdf)
+
+*31 mars 2023*
+
+- Gérer les erreurs
+- Rapidité
+- Liberté
+- Accessibilité
+- Satisfaction
+- Le besoin
+- [Le PDF](pdfs/08.pdf)
+
 
 ## Rappel de la matière en vue de l’examen
 
