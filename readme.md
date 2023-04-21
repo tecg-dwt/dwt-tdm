@@ -95,6 +95,7 @@
 - [Hteumeuleu](http://www.hteumeuleu.fr)
 - [Codrops](http://tympanus.net/codrops/)
 - [Form Patterns](https://formdesignpatterns.com/)
+- [Inclusive components](https://inclusive-components.design/)
 
 ## Liens divers
 - [Statistiques sur l’accessibilité du web en 2023 aux états-unis](https://ddiy.co/web-accessibility-statistics/)
