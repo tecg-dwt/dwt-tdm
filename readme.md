@@ -74,6 +74,10 @@
 - Le besoin
 - [Le PDF](pdfs/08.pdf)
 
+*21 avril 2023*
+
+- L’accessibilité
+- [Le PDF](pdfs/10.pdf)
 
 ## Rappel de la matière en vue de l’examen
 
