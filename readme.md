@@ -76,8 +76,17 @@
 
 *21 avril 2023*
 
-- L’accessibilité
+- L’accessibilité, sensibilisation, champ, exemples
 - [Le PDF](pdfs/10.pdf)
+
+*28 avril 2023*
+
+- Conférence d'[Annabelle Buffart](https://www.linkedin.com/in/annabuffart/)
+
+*5 mai 2023*
+
+- L’accessibilité, les règles WCAG
+- Le PDF est le même que le précédent.
 
 ## Rappel de la matière en vue de l’examen
 
