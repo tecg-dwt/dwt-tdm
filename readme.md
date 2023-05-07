@@ -90,7 +90,9 @@
 
 ## Rappel de la matière en vue de l’examen
 
-- À définir
+- Le livre d'Amélie Boucher est à étudier dans son ensemble, comme régulièrement annoncé lors des séances de cours y consacrées ;
+- Les propos tenus par l'enseignant lors des séances de cours et qui illustrent, complètent ou nuancent les informations disponibles dans les écrits sont également à connaître. Afin de vous les remémorer, les enregistrements des séances de cours sont disponibles dans la (Microsoft®) Team du cours ;
+- Accessibilité, les règles WCAG
 
 ## Quelques liens incontournables
 - [Opquast](https://checklists.opquast.com/fr/assurance-qualite-web/)
