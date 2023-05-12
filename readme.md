@@ -1,7 +1,5 @@
 # Design Web - Table des matières et planning du cours
 
-## Séance 01
-
 *3 février 2023*
 
 - Présentation de l’enseignant
@@ -87,6 +85,8 @@
 
 - L’accessibilité, les règles WCAG, les points importants
 - [Le PDF](pdfs/11.pdf)
+
+[Les enregistrements du cours](https://www.youtube.com/playlist?list=PLg9HTCEtaWMjiL3kQu9JMWJaJL-JdY_S8)
 
 ## Rappel de la matière en vue de l’examen
 
