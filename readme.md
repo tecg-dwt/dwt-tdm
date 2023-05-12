@@ -111,3 +111,4 @@
 ## Liens divers
 - [Statistiques sur l’accessibilité du web en 2023 aux états-unis](https://ddiy.co/web-accessibility-statistics/)
 - (Bien débuter en référencement naturel)[https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=fr]
+- [Macrotypographie de la page Web](https://www.dailymotion.com/video/xfpf08)
