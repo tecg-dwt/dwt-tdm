@@ -83,10 +83,10 @@
 
 - Conférence d'[Annabelle Buffart](https://www.linkedin.com/in/annabuffart/)
 
-*5 mai 2023*
+*5 et 12 mai 2023*
 
-- L’accessibilité, les règles WCAG
-- Le PDF est le même que le précédent.
+- L’accessibilité, les règles WCAG, les points importants
+- [Le PDF](pdfs/11.pdf)
 
 ## Rappel de la matière en vue de l’examen
 
