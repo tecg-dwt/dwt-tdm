@@ -91,7 +91,7 @@
 ## Rappel de la matière en vue de l’examen
 
 - Le livre d'Amélie Boucher est à étudier dans son ensemble, comme régulièrement annoncé lors des séances de cours y consacrées ;
-- Les propos tenus par l'enseignant lors des séances de cours et qui illustrent, complètent ou nuancent les informations disponibles dans les écrits sont également à connaître. Afin de vous les remémorer, les enregistrements des séances de cours sont disponibles dans la (Microsoft®) Team du cours ;
+- Les propos tenus par l'enseignant lors des séances de cours et qui illustrent, complètent ou nuancent les informations disponibles dans les écrits sont également à connaître. Afin de vous les remémorer, les enregistrements des séances de cours sont disponibles sur [Youtube](https://www.youtube.com/playlist?list=PLg9HTCEtaWMjiL3kQu9JMWJaJL-JdY_S8) ;
 - Accessibilité, [les règles WCAG](https://www.w3.org/Translations/WCAG21-fr/) : ce document constitue la table des matières, le point d'entrée, le résumé des WCAG. Il est important de le parcourir au moins une fois. Son organisation correspond à ce qui a été présenté en classes, les 12 directives répartis en quatre principe.
 - [Label aysurfer](https://www.anysurfer.be/fr/labels/label-anysurfer-pour-les-sites-web)
 - [Méthodologie du moniteur de l'accessibilité d'anysurfer](https://www.moniteurdelaccessibilite.be/methodologie.html)
