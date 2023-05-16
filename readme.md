@@ -92,7 +92,7 @@
 
 - Le livre d'Amélie Boucher est à étudier dans son ensemble, comme régulièrement annoncé lors des séances de cours y consacrées ;
 - Les propos tenus par l'enseignant lors des séances de cours et qui illustrent, complètent ou nuancent les informations disponibles dans les écrits sont également à connaître. Afin de vous les remémorer, les enregistrements des séances de cours sont disponibles dans la (Microsoft®) Team du cours ;
-- Accessibilité, les règles WCAG
+- Accessibilité, [les règles WCAG](https://www.w3.org/Translations/WCAG21-fr/)
 - [Label aysurfer](https://www.anysurfer.be/fr/labels/label-anysurfer-pour-les-sites-web)
 - [Méthodologie du moniteur de l'accessibilité d'anysurfer](https://www.moniteurdelaccessibilite.be/methodologie.html)
 - [15 règles du quickscan 2020](https://www.moniteurdelaccessibilite.be/2020.html)
