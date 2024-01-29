@@ -1,18 +1,17 @@
 # Design Web - Table des matières et planning du cours
 
-*7 février 2024*
-*14 février 2024*
-*21 février 2024*
-*28 février 2024*
-*13 mars 2024*
-*20 mars 2024*
-*27 mars 2024*
-*3 avril 2024*
-*10 avril 2024*
-*17 avril 2024*
-*24 avril 2024*
-*15 mai 2024*
-
+## 7 février 2024
+## 14 février 2024
+## 21 février 2024
+## 28 février 2024
+## 13 mars 2024
+## 20 mars 2024
+## 27 mars 2024
+## 3 avril 2024
+## 10 avril 2024
+## 17 avril 2024
+## 24 avril 2024
+## 15 mai 2024
 
 ## Quelques liens incontournables
 - [Access42](https://www.access42.net/)
