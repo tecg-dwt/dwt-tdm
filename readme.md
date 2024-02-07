@@ -41,3 +41,4 @@
 - [Bien débuter en référencement naturel](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=fr)
 - [Macrotypographie de la page Web](https://www.dailymotion.com/video/xfpf08)
 - [10 principes pour un bon design](https://www.vitsoe.com/gb/about/good-design)
+- [Portfolio de Dylan Jacquet](https://www.dylanjacquet.com)
