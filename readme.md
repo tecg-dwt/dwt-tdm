@@ -1,19 +1,44 @@
 # Design Web - Table des matières et planning du cours
 
 ## 7 février 2024
+
+- Présentation de l’enseignant
+- Présentation des cours de l’orientation Web à la HEPL
+- Énumération des thèmes du cours :
+    - L’expérience utilisateur
+    - L’accessibilité
+    - L’optimisation & les performances
+    - Les outils, les workflows
+    - Le design graphique et émotionnel
+    - Culture du Web
+    - Les métiers du Web
+- [10 principes pour du bon design selon Dieter Rams](https://fr.wikipedia.org/wiki/Dieter_Rams)
+- [Le PDF](pdfs/01.pdf)
+
 ## 14 février 2024
+
 ## 21 février 2024
+
 ## 28 février 2024
+
 ## 13 mars 2024
+
 ## 20 mars 2024
+
 ## 27 mars 2024
+
 ## 3 avril 2024
+
 ## 10 avril 2024
+
 ## 17 avril 2024
+
 ## 24 avril 2024
+
 ## 15 mai 2024
 
 ## Quelques liens incontournables
+
 - [Access42](https://www.access42.net/)
 - [AnySurfer](https://www.anysurfer.be/fr)
 - [WebAIM](https://webaim.org/)
@@ -37,6 +62,7 @@
 - [Inclusive components](https://inclusive-components.design/)
 
 ## Liens divers
+
 - [Statistiques sur l’accessibilité du web en 2023 aux états-unis](https://ddiy.co/web-accessibility-statistics/)
 - [Bien débuter en référencement naturel](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=fr)
 - [Macrotypographie de la page Web](https://www.dailymotion.com/video/xfpf08)
