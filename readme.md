@@ -17,17 +17,6 @@
 
 ## 14 février 2024
 
-- Application de cette conception au Web
-- Différentes conceptions du design : UXD/UID
-- Ergnonomie Web ? Contextuelle et ≠ bon sens
-- Utilité, Utilisabilité, normes et définitions
-- [Awwwards](https://www.awwwards.com)
-- [UserOnBoard](https://www.useronboard.com)
-- [LittleBigDetails](https://littlebigdetails.com/)
-- [Dribbble](https://www.dribbble.com)
-- [Compétences informatiques dans l’OCDE](https://www.nngroup.com/articles/computer-skill-levels/)
-- [Le PDF](pdfs/02.pdf)
-
 ## 21 février 2024
 
 ## 28 février 2024
