@@ -30,6 +30,10 @@
 
 ## 21 février 2024
 
+- Illustration des idées reçues décrites dans le livre
+- Loi de la proximité
+  - [Le PDF](pdfs/03.pdf)
+
 ## 28 février 2024
 
 ## 13 mars 2024
