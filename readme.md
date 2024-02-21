@@ -32,7 +32,7 @@
 
 - Illustration des idées reçues décrites dans le livre
 - Loi de la proximité
-  - [Le PDF](pdfs/03.pdf)
+- [Le PDF](pdfs/03.pdf)
 
 ## 28 février 2024
 
