@@ -36,6 +36,13 @@
 
 ## 28 février 2024
 
+- Loi de la similarité
+- Loi de Fitts
+- Loi de Hick
+- Affordance
+- Principe de Pareto
+- [Le PDF](pdfs/04.pdf)
+
 ## 13 mars 2024
 
 ## 20 mars 2024
