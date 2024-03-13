@@ -47,7 +47,7 @@
 
 - Concepts : architecture
 - Concepts : organisation visuelle
-- - [Le PDF](pdfs/05.pdf)
+- [Le PDF](pdfs/05.pdf)
 
 ## 20 mars 2024
 
