@@ -19,7 +19,7 @@
 
 - Application de cette conception au Web
 - Différentes conceptions du design : UXD/UID
-- Ergnonomie Web ? Contextuelle et ≠ bon sens
+- Ergonomie Web ? Contextuelle et ≠ bon sens
 - Utilité, Utilisabilité, normes et définitions
 - [Awwwards](https://www.awwwards.com)
 - [UserOnBoard](https://www.useronboard.com)
@@ -47,9 +47,16 @@
 
 - Concepts : architecture
 - Concepts : organisation visuelle
+  - [Grilles de layout dans Figma](https://www.youtube.com/watch?v=AwnJyGV-3Zs)
+  - [Composants dans Figma](https://www.youtube.com/watch?v=9xiRHz72du4)
+  - [Variants dans Figma](https://www.youtube.com/watch?v=AwnJyGV-3Zs)
 - [Le PDF](pdfs/05.pdf)
 
 ## 20 mars 2024
+
+- Concepts : organisation visuelle
+- Concepts : cohérence interne
+- [Le PDF](pdfs/06.pdf)
 
 ## 27 mars 2024
 
