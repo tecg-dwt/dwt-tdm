@@ -60,6 +60,11 @@
 
 ## 27 mars 2024
 
+- Concepts : cohérence externe
+- Concepts : information
+- Concepts : compréhension
+- [Le PDF](pdfs/07.pdf)
+
 ## 3 avril 2024
 
 ## 10 avril 2024
