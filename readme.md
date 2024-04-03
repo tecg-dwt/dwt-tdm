@@ -67,6 +67,12 @@
 
 ## 3 avril 2024
 
+- Concepts : compréhension
+- Concepts : gestion des erreurs
+- Concepts : rapidité
+- Concepts : liberté
+- [Le PDF](pdfs/08.pdf)
+
 ## 10 avril 2024
 
 ## 17 avril 2024
