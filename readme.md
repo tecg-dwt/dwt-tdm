@@ -75,6 +75,11 @@
 
 ## 10 avril 2024
 
+- Concepts : liberté
+- Concepts : satisfaction
+- Accessibilité
+- [Le PDF](pdfs/09.pdf)
+
 ## 17 avril 2024
 
 ## 24 avril 2024
@@ -113,3 +118,19 @@
 - [10 principes pour un bon design](https://www.vitsoe.com/gb/about/good-design)
 - [Portfolio de Dylan Jacquet](https://www.dylanjacquet.com)
 - [Dynamic land](https://dynamicland.org)
+- [Technologies les plus utilisées](https://w3techs.com/)
+
+## Entreprises (sélection)
+
+- [whitecube](https://whitecube.be)
+- [noomia](https://noomia.be)
+- [oanna](https://oanna.be)
+- [lws](https://lws.be)
+- [djm](https://djmdigital.be)
+- [epic](https://epic.net)
+- [la niche](https://laniche.net)
+- [deuse](https://deuse.be)
+- [afelio](https://afelio.be)
+- [produweb](https://produweb.be)
+- [fotostudio](https://www.fotostudio.io)
+- [globulebleu](https://www.globulebleu.com/)
