@@ -82,6 +82,10 @@
 
 ## 17 avril 2024
 
+- Organisation des WCAGs
+- points importants à vérifier
+- [Le PDF](pdfs/10.pdf)
+
 ## 24 avril 2024
 
 ## 15 mai 2024
