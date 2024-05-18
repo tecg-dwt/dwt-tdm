@@ -93,6 +93,11 @@
 
 ## 15 mai 2024
 
+- points importants à vérifier
+- en pratique
+- outils
+- [Le PDF](pdfs/12.pdf)
+
 ## Quelques liens incontournables
 
 - [Access42](https://www.access42.net/)
