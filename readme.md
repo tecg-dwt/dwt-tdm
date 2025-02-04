@@ -1,6 +1,6 @@
 # Design Web - Table des matières et planning du cours
 
-## 7 février 2024
+## 4 février 2025
 
 - Présentation de l’enseignant
 - Présentation des cours de l’orientation Web à la HEPL
@@ -13,90 +13,9 @@
     - Culture du Web
     - Les métiers du Web
 - [10 principes pour du bon design selon Dieter Rams](https://fr.wikipedia.org/wiki/Dieter_Rams)
+- [Dynamicland](https://dynamicland.org/2024/Intro/)
+- [Conférence de Bret Victor](http://worrydream.com/#!/LearnableProgramming)
 - [Le PDF](pdfs/01.pdf)
-
-## 14 février 2024
-
-- Application de cette conception au Web
-- Différentes conceptions du design : UXD/UID
-- Ergonomie Web ? Contextuelle et ≠ bon sens
-- Utilité, Utilisabilité, normes et définitions
-- [Awwwards](https://www.awwwards.com)
-- [UserOnBoard](https://www.useronboard.com)
-- [LittleBigDetails](https://littlebigdetails.com/)
-- [Dribbble](https://www.dribbble.com)
-- [Compétences informatiques dans l’OCDE](https://www.nngroup.com/articles/computer-skill-levels/)
-- [Le PDF](pdfs/02.pdf)
-
-## 21 février 2024
-
-- Illustration des idées reçues décrites dans le livre
-- Loi de la proximité
-- [Le PDF](pdfs/03.pdf)
-
-## 28 février 2024
-
-- Loi de la similarité
-- Loi de Fitts
-- Loi de Hick
-- Affordance
-- Principe de Pareto
-- [Le PDF](pdfs/04.pdf)
-
-## 13 mars 2024
-
-- Concepts : architecture
-- Concepts : organisation visuelle
-  - [Grilles de layout dans Figma](https://www.youtube.com/watch?v=AwnJyGV-3Zs)
-  - [Composants dans Figma](https://www.youtube.com/watch?v=9xiRHz72du4)
-  - [Variants dans Figma](https://www.youtube.com/watch?v=AwnJyGV-3Zs)
-- [Le PDF](pdfs/05.pdf)
-
-## 20 mars 2024
-
-- Concepts : organisation visuelle
-- Concepts : cohérence interne
-- [Le PDF](pdfs/06.pdf)
-
-## 27 mars 2024
-
-- Concepts : cohérence externe
-- Concepts : information
-- Concepts : compréhension
-- [Le PDF](pdfs/07.pdf)
-
-## 3 avril 2024
-
-- Concepts : compréhension
-- Concepts : gestion des erreurs
-- Concepts : rapidité
-- Concepts : liberté
-- [Le PDF](pdfs/08.pdf)
-
-## 10 avril 2024
-
-- Concepts : liberté
-- Concepts : satisfaction
-- Accessibilité
-- [Le PDF](pdfs/09.pdf)
-
-## 17 avril 2024
-
-- Organisation des WCAGs
-- points importants à vérifier
-- [Le PDF](pdfs/10.pdf)
-
-## 24 avril 2024
-
-- Annabele Buffart
-- [Le PDF](pdfs/11.pdf)
-
-## 15 mai 2024
-
-- points importants à vérifier
-- en pratique
-- outils
-- [Le PDF](pdfs/12.pdf)
 
 ## Quelques liens incontournables
 
