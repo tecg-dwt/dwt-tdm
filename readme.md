@@ -17,6 +17,20 @@
 - [Conférence de Bret Victor](http://worrydream.com/#!/LearnableProgramming)
 - [Le PDF](pdfs/01.pdf)
 
+## 11 février 2025
+
+- Application de cette conception au Web
+- Différentes conceptions du design : UXD/UID
+- Ergonomie Web ? Contextuelle et ≠ bon sens
+- Utilité, Utilisabilité, normes et définitions
+- [Awwwards](https://www.awwwards.com)
+- [UserOnBoard](https://www.useronboard.com)
+- [LittleBigDetails](https://littlebigdetails.com/)
+- [Dribbble](https://www.dribbble.com)
+- [Compétences informatiques dans l’OCDE](https://www.nngroup.com/articles/computer-skill-levels/)
+- [Le PDF](pdfs/02.pdf)
+
+
 ## Quelques liens incontournables
 
 - [Access42](https://www.access42.net/)
