@@ -35,7 +35,8 @@
  - Illustration de quelques idées reçues présentes dans le domaine du design Web
  - Loi de la proximité
  - [Le PDF](pdfs/03.pdf)
- - [Archives du numérique](http://archive.org)
+ - [Archives du numérique](https://archive.org)
+ - [Codepen](https://codepen.io)
 
 ## Quelques liens incontournables
 
