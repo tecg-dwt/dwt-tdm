@@ -30,6 +30,12 @@
 - [Compétences informatiques dans l’OCDE](https://www.nngroup.com/articles/computer-skill-levels/)
 - [Le PDF](pdfs/02.pdf)
 
+## 18 février 2025
+
+ - Illustration de quelques idées reçues présentes dans le domaine du design Web
+ - Loi de la proximité
+ - [Le PDF](pdfs/03.pdf)
+ - [Archives du numérique](http://archive.org)
 
 ## Quelques liens incontournables
 
