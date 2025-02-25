@@ -38,6 +38,16 @@
  - [Archives du numérique](https://archive.org)
  - [Codepen](https://codepen.io)
 
+## 25 février 2025
+
+  - Loi de la similarité
+  - Loi de Fitts
+  - Affordance
+  - [Le PDF](pdfs/03.pdf)
+  - [Basecamp](https://basecamp.com)
+  - [Version de basecamp de 2014](https://web.archive.org/web/20141101230949/https://basecamp.com/start)
+  - [Vidéo de la conférence complète d’Amélie Boucher à Paris Web](https://www.dailymotion.com/video/x7o6g8)
+
 ## Quelques liens incontournables
 
 - [Access42](https://www.access42.net/)
@@ -64,7 +74,7 @@
 
 ## Liens divers
 
-- [Statistiques sur l’accessibilité du web en 2023 aux états-unis](https://ddiy.co/web-accessibility-statistics/)
+- [Statistiques sur l’accessibilité du web en 2023 aux États-Unis](https://ddiy.co/web-accessibility-statistics/)
 - [Bien débuter en référencement naturel](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=fr)
 - [Macrotypographie de la page Web](https://www.dailymotion.com/video/xfpf08)
 - [10 principes pour un bon design](https://www.vitsoe.com/gb/about/good-design)
