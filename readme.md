@@ -34,19 +34,19 @@
 
  - Illustration de quelques idées reçues présentes dans le domaine du design Web
  - Loi de la proximité
- - [Le PDF](pdfs/03.pdf)
  - [Archives du numérique](https://archive.org)
  - [Codepen](https://codepen.io)
+ - [Le PDF](pdfs/03.pdf)
 
 ## 25 février 2025
 
   - Loi de la similarité
   - Loi de Fitts
   - Affordance
-  - [Le PDF](pdfs/03.pdf)
   - [Basecamp](https://basecamp.com)
   - [Version de basecamp de 2014](https://web.archive.org/web/20141101230949/https://basecamp.com/start)
   - [Vidéo de la conférence complète d’Amélie Boucher à Paris Web](https://www.dailymotion.com/video/x7o6g8)
+  - [Le PDF](pdfs/04.pdf)
 
 ## Quelques liens incontournables
 
