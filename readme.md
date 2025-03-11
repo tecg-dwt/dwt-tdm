@@ -47,6 +47,15 @@
   - [Version de basecamp de 2014](https://web.archive.org/web/20141101230949/https://basecamp.com/start)
   - [Vidéo de la conférence complète d’Amélie Boucher à Paris Web](https://www.dailymotion.com/video/x7o6g8)
   - [Le PDF](pdfs/04.pdf)
+  - 
+## 11 mars 2025
+
+  - Loi de Hick
+  - Principe de Pareto
+  - Architecture
+  - Organisation visuelle
+  - [Version du site de la ville de liege de 2017](https://web.archive.org/web/20170606133512/http://www.liege.be)
+  - [Le PDF](pdfs/05.pdf)
 
 ## Quelques liens incontournables
 
