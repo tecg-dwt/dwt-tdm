@@ -57,6 +57,17 @@
   - [Version du site de la ville de liege de 2017](https://web.archive.org/web/20170606133512/http://www.liege.be)
   - [Le PDF](pdfs/05.pdf)
 
+## 18 mars 2025
+
+  - Organisation visuelle
+  - Cohérence interne
+  - [Animations - 1](https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5)
+  - [Animations - 2](https://medium.com/@michaelvillar/improve-the-payment-experience-with-animations-3d1b0a9b810e)
+  - [Méthodo CSS](https://getbem.com/introduction/)
+  - [Chaîne Figma sur Youtube](https://www.youtube.com/@Figma)
+  - [TD Sunshine](https://www.youtube.com/@TDSunshine)
+  - [Le PDF](pdfs/05.pdf)
+
 ## Quelques liens incontournables
 
 - [Access42](https://www.access42.net/)
