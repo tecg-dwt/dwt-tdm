@@ -66,7 +66,18 @@
   - [Méthodo CSS](https://getbem.com/introduction/)
   - [Chaîne Figma sur Youtube](https://www.youtube.com/@Figma)
   - [TD Sunshine](https://www.youtube.com/@TDSunshine)
-  - [Le PDF](pdfs/05.pdf)
+  - [Le PDF](pdfs/06.pdf)
+  - 
+## 25 mars 2025
+
+- Cohérence externe
+- Information
+- Compréhension
+- Assistance
+- [La première page du Web](https://info.cern.ch)
+- [Evolution de la page de résultats de recherche Google](https://fr.slideshare.net/slideshow/the-evolutionofgoogleser-psinfographic/46161265)
+- [Portfolio de Mathieu Claessens](https://mathieu.claessens.pro)
+- [Le PDF](pdfs/07.pdf)
 
 ## Quelques liens incontournables
 
