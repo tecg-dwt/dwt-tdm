@@ -79,6 +79,14 @@
 - [Portfolio de Mathieu Claessens](https://mathieu.claessens.pro)
 - [Le PDF](pdfs/07.pdf)
 
+## 01 avril 2025
+
+- Gérer les erreurs
+- Rapidité
+- Liberté
+- Satisfaction
+- [Le PDF](pdfs/08.pdf)
+
 ## Quelques liens incontournables
 
 - [Access42](https://www.access42.net/)
