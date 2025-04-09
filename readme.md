@@ -86,6 +86,14 @@
 - Liberté
 - Satisfaction
 - [Le PDF](pdfs/08.pdf)
+- 
+- ## 08 avril 2025 🎂
+
+- L’accessibilité
+- Enjeux
+- Les situations de handicap
+- Les WCAG
+- [Le PDF](pdfs/09.pdf)
 
 ## Quelques liens incontournables
 
