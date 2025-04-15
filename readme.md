@@ -67,7 +67,7 @@
   - [Chaîne Figma sur Youtube](https://www.youtube.com/@Figma)
   - [TD Sunshine](https://www.youtube.com/@TDSunshine)
   - [Le PDF](pdfs/06.pdf)
-  - 
+
 ## 25 mars 2025
 
 - Cohérence externe
@@ -86,14 +86,21 @@
 - Liberté
 - Satisfaction
 - [Le PDF](pdfs/08.pdf)
-- 
-- ## 08 avril 2025 🎂
+
+## 08 avril 2025 🎂
 
 - L’accessibilité
 - Enjeux
 - Les situations de handicap
 - Les WCAG
 - [Le PDF](pdfs/09.pdf)
+
+## 15 avril 2025
+
+- Les WCAG
+- Les points de contrôle important
+- Le quickscan
+- [Le PDF](pdfs/10.pdf)
 
 ## Quelques liens incontournables
 
