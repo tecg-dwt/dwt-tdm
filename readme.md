@@ -102,6 +102,12 @@
 - Le quickscan
 - [Le PDF](pdfs/10.pdf)
 
+## 22 avril 2025
+
+- Les points de contrôle important
+- Le quickscan
+- WAI-ARIA
+
 ## Quelques liens incontournables
 
 - [Access42](https://www.access42.net/)
