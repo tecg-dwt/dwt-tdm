@@ -108,6 +108,13 @@
 - Le quickscan
 - WAI-ARIA
 
+## Rappel de la matière pour l'examen
+
+- Cours oral
+- Livre d'Amélie Boucher
+- [WCAG 2.2](https://www.w3.org/Translations/WCAG22-fr/)
+- [15 critères du Quickscan Anysurfer](https://www.moniteurdelaccessibilite.be/2020.html)
+
 ## Quelques liens incontournables
 
 - [Access42](https://www.access42.net/)
