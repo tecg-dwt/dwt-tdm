@@ -16,6 +16,23 @@
 - [Dynamicland](https://dynamicland.org/2024/Intro/)
 - [Le PDF](pdfs/01.pdf)
 
+## 9 février 2025
+
+- Application de cette conception au Numérique
+- Différentes conceptions du design : UXD/UID
+- Ergonomie Web ? Contextuelle et ≠ bon sens
+- Utilité, Utilisabilité, normes et définitions
+- [Awwwards](https://www.awwwards.com)
+- [UserOnBoard](https://www.useronboard.com)
+- [LittleBigDetails](https://littlebigdetails.com/)
+- [Dribbble](https://www.dribbble.com)
+- [Compétences informatiques dans l’OCDE](https://www.nngroup.com/articles/computer-skill-levels/)
+- [Norme Iso](https://www.iso.org/fr/standard/63500.html)
+- [Alain Wisner](https://fr.wikipedia.org/wiki/Alain_Wisner)
+- [Amélie Boucher](https://www.ergolab.net/)
+- [La vieille – 2014 – vidéo sur Google Analytics de Nicolas Laruelle](https://www.youtube.com/watch?v=EMRqx6mz94Q)
+- [Le PDF](pdfs/02.pdf)
+
 ## Rappel de la matière pour l'examen
 
 - Cours oral
