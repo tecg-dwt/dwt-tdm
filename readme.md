@@ -16,7 +16,7 @@
 - [Dynamicland](https://dynamicland.org/2024/Intro/)
 - [Le PDF](pdfs/01.pdf)
 
-## 9 février 2025
+## 9 février 2026
 
 - Application de cette conception au Numérique
 - Différentes conceptions du design : UXD/UID
@@ -32,6 +32,14 @@
 - [Amélie Boucher](https://www.ergolab.net/)
 - [La vieille – 2014 – vidéo sur Google Analytics de Nicolas Laruelle](https://www.youtube.com/watch?v=EMRqx6mz94Q)
 - [Le PDF](pdfs/02.pdf)
+
+## 16 février 2026
+
+- Illustration de quelques idées reçues présentes dans le domaine du design Web
+- Loi de la proximité
+- [Archives du numérique](https://archive.org)
+- [Codepen](https://codepen.io)
+- [Le PDF](pdfs/03.pdf)
 
 ## Rappel de la matière pour l'examen
 
