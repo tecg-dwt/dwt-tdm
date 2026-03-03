@@ -41,6 +41,17 @@
 - [Codepen](https://codepen.io)
 - [Le PDF](pdfs/03.pdf)
 
+## 02 mars 2026
+
+- Loi de similarité
+- Loi de Fitts
+- Affordance
+- Loi de Hick
+- Principe de Pareto
+- [Basecamp](https://web.archive.org/web/20141130061018/https://basecamp.com/start)
+- [Codepen](https://codepen.io)
+- [Le PDF](pdfs/04.pdf)
+
 ## Rappel de la matière pour l'examen
 
 - Cours oral
