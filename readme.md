@@ -58,6 +58,13 @@
 - Organisation visuelle de la page
 - [Le PDF](pdfs/05.pdf)
 
+## 16 mars 2026
+
+- Cohérence interne
+- Cohérence externe
+- Information
+- [Le PDF](pdfs/06.pdf)
+
 ## Rappel de la matière pour l'examen
 
 - Cours oral
