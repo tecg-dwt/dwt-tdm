@@ -65,6 +65,15 @@
 - Information
 - [Le PDF](pdfs/06.pdf)
 
+## 23 mars 2026
+
+- Information
+- Compréhension
+- Assistance
+- Gérer les erreurs
+- [Le PDF](pdfs/07.pdf)
+- [Le site qui a refusé de marcher lors du cours](https://tracelytics.github.io/pageguide/)
+
 ## Rappel de la matière pour l'examen
 
 - Cours oral
