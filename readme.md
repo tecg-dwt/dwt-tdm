@@ -74,6 +74,14 @@
 - [Le PDF](pdfs/07.pdf)
 - [Le site qui a refusé de marcher lors du cours](https://tracelytics.github.io/pageguide/)
 
+## 30 mars 2026
+
+- Rapidité
+- Liberté
+- Satisfaction
+- Besoin
+- [Le PDF](pdfs/08.pdf)
+
 ## Rappel de la matière pour l'examen
 
 - Cours oral
