@@ -82,6 +82,17 @@
 - Besoin
 - [Le PDF](pdfs/08.pdf)
 
+## 06 avril 2026
+
+- Accessibilité
+- Standards du web
+- Référencement
+- Enjeux
+- Handicap
+- Cadre
+- Normes
+- [Le PDF](pdfs/09.pdf)
+
 ## Rappel de la matière pour l'examen
 
 - Cours oral
