@@ -82,7 +82,7 @@
 - Besoin
 - [Le PDF](pdfs/08.pdf)
 
-## 06 avril 2026
+## 13 avril 2026
 
 - Accessibilité
 - Standards du web
@@ -92,6 +92,14 @@
 - Cadre
 - Normes
 - [Le PDF](pdfs/09.pdf)
+
+## 20 avril 2026
+
+- Les points importants
+- Pratiques
+- WAI-ARIA
+- Mesurer
+- [Le PDF](pdfs/10.pdf)
 
 ## Rappel de la matière pour l'examen
 
