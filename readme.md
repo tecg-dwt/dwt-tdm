@@ -101,6 +101,16 @@
 - Mesurer
 - [Le PDF](pdfs/10.pdf)
 
+## 11 mai 2026
+
+- Optimisation et performances
+- Importance de la vitesse
+- Outils de mesure
+- Précautions backend
+- Cycle requête / réponse
+- Caches
+- Précautions frontend
+
 ## Rappel de la matière pour l'examen
 
 - Cours oral
